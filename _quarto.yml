@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages serves this folder (Settings > Pages > main /docs)
+
+website:
+  title: "Megan Petersohn"
+  site-url: https://meganpetersohn.github.io
+  description: "Wildlife ecologist in the Okanagan, British Columbia: wolves, white-tailed deer, and long-term field data."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects/snf-wolf-pups/index.qmd
+        text: Wolf pup survival
+    right:
+      - text: ORCID
+        href: https://orcid.org/0000-0002-8955-9980
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=bjq4MwMAAAAJ
+      - icon: github
+        href: https://github.com/meganpetersohn
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:megan.petersohn@ubc.ca"
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Megan Petersohn"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/theme.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

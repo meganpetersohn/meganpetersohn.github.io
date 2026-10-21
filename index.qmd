@@ -1,0 +1,23 @@
+---
+title: "Megan Petersohn"
+subtitle: "Wildlife ecologist · Okanagan, British Columbia"
+page-layout: article
+---
+
+::: {.lede}
+I study how wildlife populations change over time, using long-term field data, telemetry, and camera traps, with a focus on wolves and white-tailed deer.
+:::
+
+I worked as a biotechnician with the U.S. Geological Survey Wolf and Deer Project in Ely, Minnesota, where I helped radio-track wolves and white-tailed deer in the Superior National Forest. My graduate research at the University of British Columbia Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains, and I also work on wildlife research with Swamp Donkey Solutions in British Columbia.
+
+## Current work
+
+- **[Wolf pup survival in northeastern Minnesota](projects/snf-wolf-pups/index.qmd).** How long radio-collared wolf pups survived, what killed them, and why, from five decades of telemetry data. Presented at the International Wolf Symposium, 2026.
+- **[White-tailed deer range expansion](research.qmd#white-tailed-deer).** What is driving white-tailed deer into the Columbia Mountains of British Columbia.
+
+## Contact and profiles
+
+- Email: <megan.petersohn@ubc.ca>
+- ORCID: [0000-0002-8955-9980](https://orcid.org/0000-0002-8955-9980)
+- [Google Scholar](https://scholar.google.com/citations?user=bjq4MwMAAAAJ)
+- [GitHub](https://github.com/meganpetersohn)

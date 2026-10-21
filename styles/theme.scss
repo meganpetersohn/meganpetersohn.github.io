@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+// Poster palette (IWS 2026): terracotta, umber, olive, warm stone
+$terracotta: #A9573A;
+$umber: #4E3426;
+$olive: #4F5B45;
+$stone: #F6F4EF;
+$ink: #2F2E2B;
+
+$body-bg: $stone;
+$body-color: $ink;
+$primary: $terracotta;
+$link-color: $terracotta;
+$navbar-bg: $umber;
+$navbar-fg: #F3EEE6;
+$footer-bg: $stone;
+$code-color: $umber;
+
+$font-family-sans-serif: "Source Sans 3", "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family: "Questrial", "Trebuchet MS", sans-serif;
+$headings-font-weight: 400;
+
+/*-- scss:rules --*/
+@import url("https://fonts.googleapis.com/css2?family=Questrial&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap");
+
+h1, h2, h3 { text-wrap: balance; }
+.lede { font-size: 1.2rem; }
+.eyebrow { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: #6B6964; }
+.plate { background: #fff; border: 1px solid #DAD5CB; border-radius: 4px; padding: .5rem; }
+.figure-caption, figcaption { color: #5E5B55; }
+.glance { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 1rem; margin: 1rem 0 1.5rem; }
+.glance div { display: grid; gap: .15rem; }
+.glance b { font-family: $headings-font-family; font-weight: 400; font-size: 1.9rem; line-height: 1.1; }
+.glance span { color: #5E5B55; font-size: .95rem; }
+.project-card { background: #fff; border: 1px solid #DAD5CB; border-radius: 6px; padding: 1.1rem 1.25rem; margin-bottom: 1rem; }
+.project-card h3 { margin-top: 0; }
+.prelim { border-left: 3px solid #DAD5CB; padding-left: .75rem; color: #5E5B55; }
