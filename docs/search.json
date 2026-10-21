@@ -25,7 +25,7 @@
     "href": "experience.html",
     "title": "Field experience",
     "section": "",
-    "text": "I started out in a neuroscience lab in Colorado, then spent nearly a decade before graduate school as a field technician on wolf, cougar, elk, deer, beaver, and predator-prey projects. Click a point on the map to see each position.\nPast field projects\n    \n   Lab research\n    \n   M.Sc. study area\n    \n   Current work (BC and Alberta)\n     Locations are approximate."
+    "text": "I started out in a neuroscience lab in Colorado, then spent nearly a decade before graduate school as a field technician on wolf, cougar, elk, deer, beaver, and predator-prey projects. Click a point on the map to see each position.\nPast field projects\n    \n   Lab research\n    \n   Current work and M.Sc. (Kelowna, BC)\n    \n   Region of current work (BC and Alberta)\n     Locations are approximate."
   },
   {
     "objectID": "experience.html#field-positions",
@@ -140,13 +140,6 @@
     "text": "Certifications and training\nAircrew Member (HAZMAT); Chemical Immobilization and Handling (WI DNR); IQCS Wildland Firefighter (FFT2, BTOP); Minnesota Trapping Certification; Minnesota Snowmobile Safety; Motorboat Operator Certification Course (MOCC); Non-Lethal Use of Firearms; Open Water Scuba Diver (PADI); Wilderness First Aid (WFA)."
   },
   {
-    "objectID": "projects/snf-wolf-pups/index.html",
-    "href": "projects/snf-wolf-pups/index.html",
-    "title": "Early mortality and survival of gray wolf pups in northeastern Minnesota",
-    "section": "",
-    "text": "Analysis by Megan Petersohn, University of British Columbia Okanagan.Data from Mech 2009, 2022, Barber-Meyer et al. 2021, U.S. Geological Survey."
-  },
-  {
     "objectID": "projects/snf-wolf-pups/index.html#the-superior-national-forest-wolf-study",
     "href": "projects/snf-wolf-pups/index.html#the-superior-national-forest-wolf-study",
     "title": "Early mortality and survival of gray wolf pups in northeastern Minnesota",
@@ -186,7 +179,7 @@
     "href": "projects/snf-wolf-pups/index.html#credits-and-how-it-was-made",
     "title": "Early mortality and survival of gray wolf pups in northeastern Minnesota",
     "section": "Credits and how it was made",
-    "text": "Credits and how it was made\n\nData. Collected by the U.S. Geological Survey Wolf and Deer Project in the Superior National Forest, led by L. David Mech and Shannon Barber-Meyer. Many technicians, pilots, and volunteers captured and radio-tracked these pups from 1970 to 2017.\nAnalysis and poster. Megan Petersohn.\nSupport. U.S. Geological Survey (most of this work), UBC Okanagan (WEiRG), and Swamp Donkey Solutions.\nStatistics. R, with the survival package (Kaplan-Meier survival and Cox proportional hazards models).\nData and figures. Python (pandas, NumPy, matplotlib), with the Questrial typeface and a colour-blind-checked palette.\nMap. ArcGIS Pro. Boundary Waters Canoe Area Wilderness boundary from the USDA Forest Service; lakes and inset from Natural Earth; basemap from Esri and its data partners.\nPoster design. Canva, including design elements from Canva’s library. Wolf illustrations from Adobe Stock, used under license.\nAI assistance. I used Claude, an AI assistant made by Anthropic, to help write and debug the analysis and figure code, check numbers against the dataset, and draft and edit text, including this page. I directed the analysis, made the analytical decisions, and reviewed all results and wording.\nPlace. This research took place within the traditional, ancestral, and contemporary homelands of the Anishinaabe (Ojibwe) and Dakota Peoples, on lands ceded in the 1854 Treaty of La Pointe, where the Bois Forte, Grand Portage, and Fond du Lac Bands of Lake Superior Chippewa retain treaty rights."
+    "text": "Credits and how it was made\n\nData. Collected by the U.S. Geological Survey Wolf and Deer Project in the Superior National Forest, led by L. David Mech and Shannon Barber-Meyer. Many technicians, pilots, and volunteers captured and radio-tracked these pups from 1970 to 2017.\nAnalysis and poster. Megan Petersohn.\nSupport. U.S. Geological Survey (most of this work), UBC Okanagan (WEiRG), and Swamp Donkey Solutions.\nStatistics. R, with the survival package (Kaplan-Meier survival and Cox proportional hazards models).\nData and figures. Python (pandas, NumPy, matplotlib), with the Questrial typeface and a colour-blind-checked palette.\nMap. ArcGIS Pro. Boundary Waters Canoe Area Wilderness boundary from the USDA Forest Service; lakes and inset from Natural Earth; basemap from Esri and its data partners.\nPoster design. Canva, including design elements from Canva’s library. Wolf illustrations from Adobe Stock, used under license: standing pup by Nadiia (#1855017249) and leaping wolf by Zabi (#1506859098), both generated with AI.\nColour palette. Inspired by two Georgia O’Keeffe paintings. The colours for how monitoring ended come from Sky Above Clouds IV (1965), which she painted from views out of airplane windows; most of these pups were tracked from the air, and how their monitoring ended often came down to whether a plane could still pick up their signal. The cause-of-death colours come from Antelope (1954), an antelope skull resting on the desert floor, where death and the land around it blend together.\nAI assistance. I used Claude, an AI assistant made by Anthropic, to help code and debug the analysis, check numbers against the dataset, and review my writing, including this page. I directed the analysis, made the analytical decisions, and reviewed all results and wording.\nPlace. This research took place within the traditional, ancestral, and contemporary homelands of the Anishinaabe (Ojibwe) and Dakota Peoples, on lands ceded in the 1854 Treaty of La Pointe, where the Bois Forte, Grand Portage, and Fond du Lac Bands of Lake Superior Chippewa retain treaty rights."
   },
   {
     "objectID": "projects/snf-wolf-pups/index.html#references",

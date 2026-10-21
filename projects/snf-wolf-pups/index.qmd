@@ -7,7 +7,9 @@ toc: true
 toc-title: "On this page"
 ---
 
-Analysis by Megan Petersohn, University of British Columbia Okanagan.<br>Data from Mech 2009, 2022, Barber-Meyer et al. 2021, U.S. Geological Survey.
+```{=html}
+<img src="figs/wolf_pup_header.jpg" alt="Pencil-style drawing of a young wolf pup standing in profile, looking right." class="pup-header">
+```
 
 ::: {.prelim}
 Preliminary results. Numbers may change as the analysis is finalized for publication.
@@ -107,8 +109,9 @@ Deaths came early: 43 of the 51 occurred within a year of capture (34 within thr
 - **Statistics.** R, with the `survival` package (Kaplan-Meier survival and Cox proportional hazards models).
 - **Data and figures.** Python (pandas, NumPy, matplotlib), with the Questrial typeface and a colour-blind-checked palette.
 - **Map.** ArcGIS Pro. Boundary Waters Canoe Area Wilderness boundary from the USDA Forest Service; lakes and inset from Natural Earth; basemap from Esri and its data partners.
-- **Poster design.** Canva, including design elements from Canva's library. Wolf illustrations from Adobe Stock, used under license.
-- **AI assistance.** I used Claude, an AI assistant made by Anthropic, to help write and debug the analysis and figure code, check numbers against the dataset, and draft and edit text, including this page. I directed the analysis, made the analytical decisions, and reviewed all results and wording.
+- **Poster design.** Canva, including design elements from Canva's library. Wolf illustrations from Adobe Stock, used under license: standing pup by [Nadiia](https://stock.adobe.com/contributor/211487462/nadiia) (#1855017249) and leaping wolf by [Zabi](https://stock.adobe.com/contributor/211723773/zabi) (#1506859098), both generated with AI.
+- **Colour palette.** Inspired by two Georgia O'Keeffe paintings. The colours for how monitoring ended come from *Sky Above Clouds IV* (1965), which she painted from views out of airplane windows; most of these pups were tracked from the air, and how their monitoring ended often came down to whether a plane could still pick up their signal. The cause-of-death colours come from *Antelope* (1954), an antelope skull resting on the desert floor, where death and the land around it blend together.
+- **AI assistance.** I used Claude, an AI assistant made by Anthropic, to help code and debug the analysis, check numbers against the dataset, and review my writing, including this page. I directed the analysis, made the analytical decisions, and reviewed all results and wording.
 - **Place.** This research took place within the traditional, ancestral, and contemporary homelands of the Anishinaabe (Ojibwe) and Dakota Peoples, on lands ceded in the 1854 Treaty of La Pointe, where the Bois Forte, Grand Portage, and Fond du Lac Bands of Lake Superior Chippewa retain treaty rights.
 
 ## References

@@ -34,3 +34,13 @@ h1, h2, h3 { text-wrap: balance; }
 .project-card { background: #fff; border: 1px solid #DAD5CB; border-radius: 6px; padding: 1.1rem 1.25rem; margin-bottom: 1rem; }
 .project-card h3 { margin-top: 0; }
 .prelim { border-left: 3px solid #DAD5CB; padding-left: .75rem; color: #5E5B55; }
+
+/* Wolf pup drawing at the top of the poster page; multiply blends its white background into the page colour */
+.pup-header {
+  display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
+  margin: 0 auto 1rem;
+  mix-blend-mode: multiply;
+}
