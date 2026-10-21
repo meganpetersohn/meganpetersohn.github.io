@@ -68,3 +68,54 @@ h1, h2, h3 { text-wrap: balance; }
 
 /* Keep navbar labels on one line */
 .navbar .nav-link, .navbar-brand { white-space: nowrap; }
+
+/* Home page hero: text panel beside a photo, stacked on phones */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+  background: #4E3426;
+  color: #F6F4EF;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 0 0 2.5rem;
+}
+.hero-text { padding: clamp(1.75rem, 4vw, 3.5rem); align-self: center; }
+.hero-eyebrow {
+  text-transform: uppercase; letter-spacing: .14em; font-size: .85rem;
+  color: #E2AE9E; margin: 0 0 .4rem;
+}
+.hero-name {
+  font-size: clamp(2.2rem, 5vw, 3.4rem); color: #F6F4EF; margin: 0 0 1rem;
+  border: none;
+}
+.hero-statement { font-size: 1.15rem; line-height: 1.6; max-width: 34rem; margin-bottom: 1.75rem; }
+.hero-facts {
+  list-style: none; padding: 0; margin: 0 0 1.75rem;
+  display: flex; flex-wrap: wrap; gap: 1rem 2rem;
+  li { display: flex; align-items: flex-start; gap: .6rem; font-size: .95rem; line-height: 1.35; }
+  i { font-size: 1.3rem; color: #E2AE9E; }
+}
+.hero-buttons { display: flex; flex-wrap: wrap; gap: .75rem; }
+.hero-btn {
+  display: inline-block; padding: .65rem 1.4rem; border-radius: 4px;
+  background: #F6F4EF; color: #4E3426 !important; text-decoration: none; font-weight: 600;
+  border: 1px solid #F6F4EF;
+  &:hover { background: #E2AE9E; border-color: #E2AE9E; }
+}
+.hero-btn-ghost { background: transparent; color: #F6F4EF !important; &:hover { color: #4E3426 !important; } }
+.hero-photo { min-height: 320px; position: relative; }
+.hero-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+@media (max-width: 768px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero-photo { order: -1; height: 340px; }
+}
+.media-card:not(:has(> p img)) { grid-template-columns: 1fr; }
+
+/* Field experience: small row of photos under a position, click to enlarge */
+.photo-strip {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .5rem;
+  margin: .5rem 0 1.5rem;
+  p { display: contents; }
+  img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 4px; margin: 0; }
+  figure, .quarto-figure { margin: 0; }
+}
