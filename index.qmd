@@ -12,8 +12,8 @@ I am broadly interested in how large mammals move, interact, and coexist across 
 
 ## Current work
 
-- **[Wolf pup survival in northeastern Minnesota](projects/snf-wolf-pups/index.qmd).** How long radio-collared wolf pups survived, what killed them, and why, from five decades of telemetry data. Presented at the International Wolf Symposium, 2026.
-- **[White-tailed deer range expansion](research.qmd#white-tailed-deer).** What is driving white-tailed deer into the Columbia Mountains of British Columbia.
+- [Wolf pup survival in northeastern Minnesota](projects/snf-wolf-pups/index.qmd): how long radio-collared wolf pups survived, what killed them, and why, from five decades of telemetry data. Presented at the International Wolf Symposium, 2026.
+- [White-tailed deer range expansion](research.qmd#white-tailed-deer): what is driving white-tailed deer into the Columbia Mountains of British Columbia.
 
 ## Contact and profiles
 

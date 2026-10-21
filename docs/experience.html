@@ -103,6 +103,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Field experience</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./projects/snf-wolf-pups/index.html"> 
 <span class="menu-text">Wolf pup survival</span></a>
   </li>  
@@ -165,10 +169,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Before graduate school I spent nearly a decade as a field technician on wolf, cougar, elk, deer, beaver, and predator-prey projects. Click a point on the map to see each position.</p>
+<p>I started out in a neuroscience lab in Colorado, then spent nearly a decade before graduate school as a field technician on wolf, cougar, elk, deer, beaver, and predator-prey projects. Click a point on the map to see each position.</p>
 <div id="fieldmap" style="height: 460px; border: 1px solid #DAD5CB; border-radius: 6px; margin: 1rem 0 .5rem;"></div>
 <p style="font-size:.9rem;color:#5E5B55;margin-bottom:1.5rem;">
   <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#A9573A;vertical-align:middle;"></span> Past field projects
+  &nbsp;&nbsp;
+  <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#4E3426;vertical-align:middle;"></span> Lab research
   &nbsp;&nbsp;
   <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#4F5B45;vertical-align:middle;"></span> M.Sc. study area
   &nbsp;&nbsp;
@@ -187,6 +193,7 @@ ul.task-list li input[type="checkbox"] {
     {name: "Carnivore/Deer Wildlife Technician", lines: ["Mississippi State University", "Baraga, Michigan"], when: "Apr to Nov 2017", ll: [46.78, -88.49], now: false},
     {name: "Wildlife Monitoring Technician", lines: ["Lake County Forest Preserves", "Lake County, Illinois"], when: "May to Nov 2016", ll: [42.32, -87.98], now: false},
     {name: "Odonate Researcher", lines: ["McHenry County College and McHenry County Conservation District", "McHenry County, Illinois"], when: "Nov 2015 to Nov 2017", ll: [42.32, -88.45], now: false},
+    {name: "Neuroscience Laboratory Research Intern", lines: ["Dr. Curt Freed's laboratory", "Anschutz Medical Campus, Aurora, Colorado"], when: "Aug to Nov 2014", ll: [39.75, -104.84], now: false, lab: true},
     {name: "M.Sc. study area: Columbia Mountains", lines: ["White-tailed deer (sek̓wtúps) range expansion", "University of British Columbia Okanagan"], when: "2024 to present", ll: [51.00, -118.20], now: true}
   ];
   var map = L.map("fieldmap", {scrollWheelZoom: false, zoomSnap: 0.25});
@@ -197,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
   }).addTo(map);
   var pts = [];
   sites.forEach(function (s) {
-    var m = L.circleMarker(s.ll, {radius: 8, weight: 2, color: "#ffffff", fillColor: s.now ? "#4F5B45" : "#A9573A", fillOpacity: 0.95});
+    var m = L.circleMarker(s.ll, {radius: 8, weight: 2, color: "#ffffff", fillColor: s.now ? "#4F5B45" : (s.lab ? "#4E3426" : "#A9573A"), fillOpacity: 0.95});
     m.bindPopup("<strong>" + s.name + "</strong><br>" + s.lines.join("<br>") + (s.when ? "<br><em>" + s.when + "</em>" : ""));
     m.addTo(map); pts.push(s.ll);
   });
@@ -262,6 +269,15 @@ Trapped and processed reptiles, amphibians, fish, small mammals, and mesocarnivo
 <dt><strong>Odonate Researcher</strong> · McHenry County College and McHenry County Conservation District, Illinois · Nov 2015 to Nov 2017</dt>
 <dd>
 Surveyed dragonfly nymphs across northern Illinois, adding four species to the county record, and helped confirm two sites of the federally endangered Hine’s emerald dragonfly.
+</dd>
+</dl>
+</section>
+<section id="lab-research" class="level2">
+<h2 class="anchored" data-anchor-id="lab-research">Lab research</h2>
+<dl>
+<dt><strong>Neuroscience Laboratory Research Intern</strong> · Dr.&nbsp;Curt Freed’s laboratory, Anschutz Medical Campus, Aurora, Colorado · Aug to Nov 2014</dt>
+<dd>
+Worked toward purifying a dopaminergic cell line to improve a cell culture model of Parkinson’s disease, using cell culture, immunohistochemistry, Western blots, luciferase assays, and qPCR. Presented a poster at the Department of Medicine Research Day (Oct 2014).
 </dd>
 </dl>
 </section>

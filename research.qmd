@@ -8,7 +8,7 @@ page-layout: article
 
 Using radio-collared wolf pups from one of the longest-running wolf studies, in the Superior National Forest (1970 to 2017), I estimate how many pups survived their first two years, when and how they died, and how body condition and roads shaped their risk. Data from the U.S. Geological Survey Wolf and Deer Project (Mech 2009, 2022; Barber-Meyer et al. 2021).
 
-[Poster and results →](projects/snf-wolf-pups/index.qmd)
+[Poster and results](projects/snf-wolf-pups/index.qmd)
 :::
 
 ::: {.project-card}

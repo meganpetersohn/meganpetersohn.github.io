@@ -17,6 +17,8 @@ website:
         text: Current projects
       - href: experience.qmd
         text: Field experience
+      - href: teaching.qmd
+        text: Teaching
       - href: projects/snf-wolf-pups/index.qmd
         text: Wolf pup survival
       - href: cv.qmd

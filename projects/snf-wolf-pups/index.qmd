@@ -103,7 +103,7 @@ Deaths came early: 43 of the 51 occurred within a year of capture (34 within thr
 
 - **Data.** Collected by the U.S. Geological Survey Wolf and Deer Project in the Superior National Forest, led by L. David Mech and Shannon Barber-Meyer. Many technicians, pilots, and volunteers captured and radio-tracked these pups from 1970 to 2017.
 - **Analysis and poster.** Megan Petersohn.
-- **Support.** U.S. Geological Survey (most of this work), UBC Okanagan (WEIRG), and Swamp Donkey Solutions.
+- **Support.** U.S. Geological Survey (most of this work), UBC Okanagan (WEiRG), and Swamp Donkey Solutions.
 - **Statistics.** R, with the `survival` package (Kaplan-Meier survival and Cox proportional hazards models).
 - **Data and figures.** Python (pandas, NumPy, matplotlib), with the Questrial typeface and a colour-blind-checked palette.
 - **Map.** ArcGIS Pro. Boundary Waters Canoe Area Wilderness boundary from the USDA Forest Service; lakes and inset from Natural Earth; basemap from Esri and its data partners.
