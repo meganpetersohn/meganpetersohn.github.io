@@ -20,7 +20,7 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 : Thesis: *Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains of British Columbia.* Advisor: Dr. Tal Avgar.
 
 **Bachelor of Arts in Biology and Neuroscience**, Augustana University, Rock Island, Illinois · 2011 to 2015
-: Minor in Spanish. Dean’s List.
+: Minor in Spanish. Dean’s List; Beta Beta Beta Biological Honor Society.
 
 ## Grants and awards
 
@@ -38,26 +38,34 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 
 ## Research appointments
 
-**Yellowstone Wolf, Cougar, and Elk Project**, National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023
-: GPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study.
+Details and a map of each position are on my [Field experience](experience.qmd) page.
 
-**Wolf and Deer Project**, U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022
-: Managed the final phase of one of the world's longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region.
-
-**Mexican Wolf Recovery Program**, U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020
-: Live-capture and monitoring of endangered Mexican wolves, and conflict mitigation across agency and ranching contexts in the Gila National Forest.
-
-**Isle Royale Wolf Introduction**, SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019
-: More than 100 GPS-cluster investigations during the first year of wolf reintroduction to the island.
-
-**Additional appointments**
-: National Park Service, Isle Royale National Park, Michigan (Mar 2020); New Mexico Department of Game and Fish, Mount Taylor, New Mexico (May to Sep 2018); Wisconsin Department of Natural Resources, Dodgeville, Wisconsin (Nov 2017 to May 2018); Mississippi State University, Baraga, Michigan (Apr to Nov 2017).
+- **Biological Science Technician**, National Park Service, Isle Royale National Park, Michigan · May to Oct 2023
+- **Yellowstone Wolf, Cougar, and Elk Project Technician**, National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023
+- **Lead Beaver Project Technician**, National Park Service, Isle Royale National Park, Michigan · Aug to Oct 2019 and Aug to Oct 2022
+- **Biological Science Technician, Wolf and Deer Project**, U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022
+- **Isle Royale Winter Study Technician**, National Park Service, Isle Royale National Park, Michigan · Mar 2020
+- **Mexican Wolf Recovery Program Field Technician**, U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020
+- **Isle Royale Wolf Introduction Research Technician**, SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019
+- **Elk Calf Survival Study Technician**, New Mexico Department of Game and Fish, Mount Taylor, New Mexico · May to Sep 2018
+- **Advanced Deer, CWD, and Predator-Prey Research Technician**, Wisconsin Department of Natural Resources, Dodgeville, Wisconsin · Nov 2017 to May 2018
+- **Carnivore/Deer Wildlife Technician**, Mississippi State University, Baraga, Michigan · Apr to Nov 2017
+- **Wildlife Monitoring Technician**, Lake County Forest Preserves, Lake County, Illinois · May to Nov 2016
+- **Odonate Researcher**, McHenry County College and McHenry County Conservation District, Illinois · Nov 2015 to Nov 2017
+- **Neuroscience Laboratory Research Intern**, Dr. Curt Freed's laboratory, Anschutz Medical Campus, Aurora, Colorado · Aug to Nov 2014
 
 ## Publications
 
 - Martinig, A.R., Burk, S.L.P., Drobniak, S.M., Perry, I., Morrison, K., Petersohn, M., et al. 2025. Dragon kill points: applying a transparent working template to relieve authorship stress. *EcoEvoRxiv*. <https://doi.org/10.32942/X2W05K>
 - Petersohn, M. 2023. An old place with new songs. *International Wolf* 33(3):28-30.
 - Petersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. *International Wolf* 32(2):26-27.
+
+### In preparation
+
+- Petersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains of British Columbia (M.Sc. thesis research).
+- Petersohn, M.C., and T. Avgar. Refining realized viewshed and effective capture area from camera-based detection tests.
+- Suen, A., M.C. Petersohn, R. Serrouya, and T. Avgar. Non-consumptive effects of black bear hunting: evidence from wide-scale camera monitoring in British Columbia.
+- Petersohn, M.C. Early mortality and survival of gray wolf pups in northeastern Minnesota (data from Mech 2009, 2022; Barber-Meyer et al. 2021).
 
 ## Selected presentations
 
@@ -66,6 +74,16 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 - Petersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. 2025. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains. Columbia Mountains Institute Researcher's Forum, Revelstoke, BC (Sep 2025), and The Wildlife Society International Conference, Edmonton, AB (Oct 2025).
 - Petersohn, M., and T. Avgar. 2025. Predator reduction: effects on cervids. WAFWA Deer and Elk Workshop, Nanaimo, BC (Jun 2025).
 - Petersohn, M., S. Barber-Meyer, K. Pilgrim, and I. Ortloff. 2022. Wolf genetics and persistence of scat and radiocollars. Poster, International Wolf Symposium, Minneapolis, MN (Oct 2022).
+
+### Workshops and outreach
+
+- Camera traps in research: workshop for high school students. Interactive presentation on camera-trap methods, wildlife monitoring, and career pathways in conservation science. UBC Okanagan, Kelowna, BC (Mar 2025).
+- Radio-telemetry field training for undergraduate students, The Wildlife Society UBCO Chapter. Hands-on workshop on telemetry equipment, animal tracking, and spatial data collection. Kelowna, BC (Sep 2024).
+
+### Earlier presentations
+
+- Petersohn, M., and K. Geedey. 2015. Abundance and diet of crayfish in two different habitats at Greenwing Laboratory. Poster, Celebration of Learning, Augustana College, Illinois (May 2015).
+- Petersohn, M., M. Fitzpatrick, and C. Freed. 2014. Purifying a dopaminergic cell line to improve a cell culture model of Parkinson's disease. Poster, Department of Medicine Research Day, Anschutz Medical Campus, Colorado (Oct 2014).
 
 ## Teaching and supervising
 

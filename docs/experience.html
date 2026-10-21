@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Field experience</h1>
-<p class="subtitle lead">Ten years of carnivore and ungulate fieldwork across North America</p>
+<p class="subtitle lead">Nearly a decade of carnivore, ungulate, and wildlife fieldwork across North America</p>
 </div>
 
 
@@ -165,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Before graduate school I spent most of a decade as a field technician on wolf, cougar, elk, deer, and predator-prey projects. Click a point on the map to see each project.</p>
+<p>Before graduate school I spent nearly a decade as a field technician on wolf, cougar, elk, deer, beaver, and predator-prey projects. Click a point on the map to see each position.</p>
 <div id="fieldmap" style="height: 460px; border: 1px solid #DAD5CB; border-radius: 6px; margin: 1rem 0 .5rem;"></div>
 <p style="font-size:.9rem;color:#5E5B55;margin-bottom:1.5rem;">
   <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#A9573A;vertical-align:middle;"></span> Past field projects
@@ -176,15 +176,19 @@ ul.task-list li input[type="checkbox"] {
 <script>
 (function () {
   var sites = [
-    {name: "Yellowstone Wolf, Cougar, and Elk Project", org: "National Park Service", place: "Yellowstone National Park, Wyoming", when: "Nov 2022 to Apr 2023", ll: [44.90, -110.30], now: false},
-    {name: "Wolf and Deer Project", org: "U.S. Geological Survey", place: "Ely, Minnesota", when: "Jul 2020 to Aug 2022", ll: [47.90, -91.87], now: false},
-    {name: "Isle Royale wolf work", org: "SUNY ESF (2019) and National Park Service (2020)", place: "Isle Royale National Park, Michigan", when: "May to Aug 2019; Mar 2020", ll: [48.00, -88.90], now: false},
-    {name: "Mexican Wolf Recovery Program", org: "U.S. Fish and Wildlife Service", place: "Alpine, Arizona", when: "Oct 2018 to Apr 2019; Jan to May 2020", ll: [33.85, -109.13], now: false},
-    {name: "Elk project", org: "New Mexico Department of Game and Fish", place: "Mount Taylor, New Mexico", when: "May to Sep 2018", ll: [35.24, -107.61], now: false},
-    {name: "Deer, CWD, and predator project", org: "Wisconsin Department of Natural Resources", place: "Dodgeville, Wisconsin", when: "Nov 2017 to May 2018", ll: [42.96, -90.13], now: false},
-    {name: "Predator-prey project", org: "Mississippi State University", place: "Baraga, Michigan", when: "Apr to Nov 2017", ll: [46.78, -88.49], now: false},
-    {name: "M.Sc. research: white-tailed deer range expansion", org: "University of British Columbia Okanagan", place: "Columbia Mountains, British Columbia", when: "2024 to present", ll: [51.00, -118.20], now: true},
-    {name: "Applied Ecologist", org: "SwampDonkey", place: "Based in the Okanagan, British Columbia", when: "Aug 2026 to present", ll: [50.05, -119.40], now: true}
+    {name: "Yellowstone Wolf, Cougar, and Elk Project Technician", lines: ["National Park Service", "Yellowstone National Park, Wyoming"], when: "Nov 2022 to Apr 2023", ll: [44.90, -110.30], now: false},
+    {name: "Biological Science Technician, Wolf and Deer Project", lines: ["U.S. Geological Survey", "Ely, Minnesota"], when: "Jul 2020 to Aug 2022", ll: [47.90, -91.87], now: false},
+    {name: "Isle Royale National Park, Michigan", lines: ["Biological Science Technician, National Park Service (May to Oct 2023)", "Lead Beaver Project Technician, National Park Service (Aug to Oct 2019 and 2022)", "Winter Study Technician, National Park Service (Mar 2020)", "Wolf Introduction Research Technician, SUNY ESF (May to Aug 2019)"], when: "2019 to 2023", ll: [48.00, -88.90], now: false},
+    {name: "Mexican Wolf Recovery Program Field Technician", lines: ["U.S. Fish and Wildlife Service", "Alpine, Arizona"], when: "Oct 2018 to Apr 2019; Jan to May 2020", ll: [33.85, -109.13], now: false},
+    {name: "Elk Calf Survival Study Technician", lines: ["New Mexico Department of Game and Fish", "Mount Taylor, New Mexico"], when: "May to Sep 2018", ll: [35.24, -107.61], now: false},
+    {name: "Advanced Deer, CWD, and Predator-Prey Research Technician", lines: ["Wisconsin Department of Natural Resources", "Dodgeville, Wisconsin"], when: "Nov 2017 to May 2018", ll: [42.96, -90.13], now: false},
+    {name: "Carnivore/Deer Wildlife Technician", lines: ["Mississippi State University", "Baraga, Michigan"], when: "Apr to Nov 2017", ll: [46.78, -88.49], now: false},
+    {name: "Wildlife Monitoring Technician", lines: ["Lake County Forest Preserves", "Lake County, Illinois"], when: "May to Nov 2016", ll: [42.32, -87.98], now: false},
+    {name: "Odonate Researcher", lines: ["McHenry County College and McHenry County Conservation District", "McHenry County, Illinois"], when: "Nov 2015 to Nov 2017", ll: [42.32, -88.45], now: false},
+    {name: "Home base: Kelowna, British Columbia", lines: ["M.Sc. in Biology, University of British Columbia Okanagan (2024 to present)", "Applied Ecologist, SwampDonkey (Aug 2026 to present, remote)"], when: "", ll: [49.94, -119.40], now: true},
+    {name: "M.Sc. study area: Columbia Mountains", lines: ["White-tailed deer (sek̓wtúps) range expansion", "University of British Columbia Okanagan"], when: "2024 to present", ll: [51.00, -118.20], now: true},
+    {name: "SwampDonkey: Fort Nelson First Nation", lines: ["Wildlife and ecosystem research and monitoring", "Northeastern British Columbia"], when: "Aug 2026 to present", ll: [58.80, -122.70], now: true},
+    {name: "SwampDonkey: Mikisew Cree First Nation", lines: ["Wildlife and ecosystem research and monitoring", "Northeastern Alberta"], when: "Aug 2026 to present", ll: [58.71, -111.15], now: true}
   ];
   var map = L.map("fieldmap", {scrollWheelZoom: false});
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -194,35 +198,64 @@ ul.task-list li input[type="checkbox"] {
   var pts = [];
   sites.forEach(function (s) {
     var m = L.circleMarker(s.ll, {radius: 8, weight: 2, color: "#ffffff", fillColor: s.now ? "#4F5B45" : "#A9573A", fillOpacity: 0.95});
-    m.bindPopup("<strong>" + s.name + "</strong><br>" + s.org + "<br>" + s.place + "<br><em>" + s.when + "</em>");
+    m.bindPopup("<strong>" + s.name + "</strong><br>" + s.lines.join("<br>") + (s.when ? "<br><em>" + s.when + "</em>" : ""));
     m.addTo(map); pts.push(s.ll);
   });
   map.fitBounds(pts, {padding: [30, 30]});
 })();
 </script>
-<section id="field-projects" class="level2">
-<h2 class="anchored" data-anchor-id="field-projects">Field projects</h2>
+<section id="field-positions" class="level2">
+<h2 class="anchored" data-anchor-id="field-positions">Field positions</h2>
 <dl>
-<dt><strong>Yellowstone Wolf, Cougar, and Elk Project</strong> · National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023</dt>
+<dt><strong>Biological Science Technician</strong> · National Park Service, Isle Royale National Park, Michigan · May to Oct 2023</dt>
 <dd>
-GPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study, in one of North America’s most intensively studied wolf systems.
+Led long-term, multi-species monitoring for the park: beaver trapping, snowshoe hare pellet surveys, and breeding raptor and loon surveys at more than fifty sites, plus wolf GPS-cluster investigations, inland fish and water-quality sampling, and forest health assessments, with data analysis and annual reports.
 </dd>
-<dt><strong>Wolf and Deer Project</strong> · U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022</dt>
+<dt><strong>Yellowstone Wolf, Cougar, and Elk Project Technician</strong> · National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023</dt>
 <dd>
-Managed the final phase of one of the world’s longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region. This is where my <a href="./projects/snf-wolf-pups/index.html">wolf pup survival project</a> began.
+Documented wolf and cougar predation, movements, behaviour, and scavenging for a 28-year continuous winter study: GPS-cluster searches, field necropsies of deer, elk, moose, and bison, observation of radio-collared packs, cougar camera monitoring, and bone-marrow fat analysis.
 </dd>
-<dt><strong>Isle Royale Wolf Introduction</strong> · SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019</dt>
+<dt><strong>Lead Beaver Project Technician</strong> · National Park Service, Isle Royale National Park, Michigan · Aug to Oct 2019 and Aug to Oct 2022</dt>
 <dd>
-More than 100 GPS-cluster investigations during the first year of wolf reintroduction to a roadless island, documenting early predation patterns, prey selection, and social dynamics among reintroduced wolves. I returned with the National Park Service in March 2020.
+Live-trapped, handled, tagged, and sampled more than 70 beavers for a multi-year mark-recapture study of beaver foraging in response to rising wolf numbers; trained technicians, ran telemetry, and prepared the 2022 beaver report.
 </dd>
-<dt><strong>Mexican Wolf Recovery Program</strong> · U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020</dt>
+<dt><strong>Biological Science Technician, Wolf and Deer Project</strong> · U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022</dt>
 <dd>
-Live-capture and monitoring of endangered Mexican wolves, with conflict mitigation (hazing, deterrents, fladry, fencing) across agency and ranching contexts in the Gila National Forest, and fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe.
+As the only biotechnician during the final phase of this 50-plus-year study in the Superior National Forest: weekly aerial telemetry of wolves and deer, wolf capture and radio-collaring, necropsies, winter pack counts and snow-tracking, genetic sampling of scats and snow tracks, volunteer leadership, and long-term data management and reporting. This is where my <a href="./projects/snf-wolf-pups/index.html">wolf pup survival project</a> began.
+</dd>
+<dt><strong>Isle Royale Winter Study Technician</strong> · National Park Service, Isle Royale National Park, Michigan · Mar 2020</dt>
+<dd>
+Wolf and moose aerial surveys, moose captures, and the first attempts to radio-collar pine marten on the island.
+</dd>
+<dt><strong>Mexican Wolf Recovery Program Field Technician</strong> · U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020</dt>
+<dd>
+Trapped, immobilized, processed, and collared wild and captive Mexican wolves (including helicopter captures), monitored packs, and implemented conflict management (hazing, food caches, fladry, public communication) across agency and ranching contexts, with fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe. Selected as an emergency hire to return in 2020.
+</dd>
+<dt><strong>Isle Royale Wolf Introduction Research Technician</strong> · SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019</dt>
+<dd>
+Investigated more than 100 wolf GPS-cluster sites during the first year of wolf reintroduction, identifying prey remains and sampling moose, snowshoe hare, and beaver; collected wolf, fox, and marten scats and ran trail cameras on carcasses and trails.
+</dd>
+<dt><strong>Elk Calf Survival Study Technician</strong> · New Mexico Department of Game and Fish, Mount Taylor, New Mexico · May to Sep 2018</dt>
+<dd>
+Captured 35 elk calves from the ground and by helicopter, ran ground and aerial telemetry, and conducted sixteen mortality investigations to evaluate the effects of coyote management on calf survival.
+</dd>
+<dt><strong>Advanced Deer, CWD, and Predator-Prey Research Technician</strong> · Wisconsin Department of Natural Resources, Dodgeville, Wisconsin · Nov 2017 to May 2018</dt>
+<dd>
+Led a live-capture team that immobilized, collared, and sampled more than 100 adult deer for chronic wasting disease and predator-prey research; ran bobcat trapping, mortality investigations, and landowner outreach.
+</dd>
+<dt><strong>Carnivore/Deer Wildlife Technician</strong> · Mississippi State University, Baraga, Michigan · Apr to Nov 2017</dt>
+<dd>
+Surveyed seven species in Michigan’s Upper Peninsula (coyote howl surveys as lead technician, bear and bobcat hair snares, deer cameras, grouse, beaver, and hare surveys); captured and collared deer, black bears, bobcats, coyotes, and wolves; and investigated fawn and adult deer mortalities.
+</dd>
+<dt><strong>Wildlife Monitoring Technician</strong> · Lake County Forest Preserves, Lake County, Illinois · May to Nov 2016</dt>
+<dd>
+Trapped and processed reptiles, amphibians, fish, small mammals, and mesocarnivores; radio-tracked endangered Blanding’s turtles and helped with their head-start program.
+</dd>
+<dt><strong>Odonate Researcher</strong> · McHenry County College and McHenry County Conservation District, Illinois · Nov 2015 to Nov 2017</dt>
+<dd>
+Surveyed dragonfly nymphs across northern Illinois, adding four species to the county record, and helped confirm two sites of the federally endangered Hine’s emerald dragonfly.
 </dd>
 </dl>
-<p><strong>New Mexico Department of Game and Fish</strong> · Mount Taylor, New Mexico · May to Sep 2018</p>
-<p><strong>Wisconsin Department of Natural Resources</strong> · Dodgeville, Wisconsin · Nov 2017 to May 2018</p>
-<p><strong>Mississippi State University</strong> · Baraga, Michigan · Apr to Nov 2017</p>
 </section>
 <section id="skills-from-the-field" class="level2">
 <h2 class="anchored" data-anchor-id="skills-from-the-field">Skills from the field</h2>
