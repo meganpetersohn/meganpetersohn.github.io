@@ -2,6 +2,7 @@
 title: "Media and writing"
 subtitle: "Features, recognition, and articles"
 page-layout: article
+lightbox: true
 ---
 
 ## Features and recognition
@@ -13,7 +14,7 @@ page-layout: article
 ### Mentor recognition, Delta Waterfowl Foundation
 <span class="media-meta">Delta Waterfowl Foundation · July 2026</span>
 
-Recognized for three years of mentoring UBC Okanagan students through Delta Waterfowl's University Hunting Program: helping new hunters prepare for their first hunt, loaning gear, and mentoring in the field, along with introductions to fishing, trapping, archery, and turkey hunting.
+Recognized for two years of mentoring UBC Okanagan students through Delta Waterfowl's University Hunting Program: helping new hunters prepare for their first hunt, loaning gear, and mentoring in the field, along with introductions to fishing, trapping, archery, and turkey hunting.
 
 > "Megan has made hunting more accessible while building confidence in the field."
 
@@ -76,3 +77,15 @@ Featured with the field crew in the DNR's posts on the first deer collared that 
 
 - Petersohn, M. 2023. An old place with new songs. *International Wolf* 33(3):28-30.
 - Petersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. *International Wolf* 32(2):26-27. [USGS record](https://pubs.usgs.gov/publication/70232261)
+
+## Off the clock
+
+::: {.photo-strip}
+![](files/personal/hiking_slot_canyon.jpg){group="personal" fig-alt="Megan climbing up through a red sandstone slot canyon."}
+![](files/personal/hiking_camera.jpg){group="personal" fig-alt="Megan photographing from a sandstone ledge."}
+![](files/personal/yellowstone_grand_prismatic.jpg){group="personal" fig-alt="Megan looking out over the steaming, orange-rimmed Grand Prismatic Spring in Yellowstone."}
+![](files/personal/yellowstone_boardwalk.jpg){group="personal" fig-alt="Megan laughing on a boardwalk across a Yellowstone geyser basin, camera in hand."}
+![](files/personal/winter_beaver_trapping.jpg){group="personal" fig-alt="Black-and-white photo of Megan reaching through broken ice to set a beaver trap in deep snow."}
+:::
+
+[Hiking canyon country with my dad, wandering Yellowstone's geyser basins, and trapping beaver in winter.]{.strip-caption}

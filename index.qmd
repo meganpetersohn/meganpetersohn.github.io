@@ -1,12 +1,31 @@
 ---
-title: "Megan Petersohn"
-subtitle: "Applied Ecologist, SwampDonkey · M.Sc. candidate, UBC Okanagan"
+pagetitle: "Megan Petersohn"
 page-layout: article
 ---
 
-::: {.lede}
-I am a wildlife ecologist with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research.
-:::
+```{=html}
+<section class="hero column-screen-inset">
+  <div class="hero-text">
+    <p class="hero-eyebrow">Wildlife ecologist</p>
+    <h1 class="hero-name">Megan Petersohn</h1>
+    <p class="hero-statement">I study how large mammals move, interact, and share working landscapes, from wolves and their pups to deer pushing into caribou country. My work runs from fieldwork and long-term data to answers that managers, partners, and communities can use.</p>
+    <ul class="hero-facts">
+      <li><i class="bi bi-briefcase"></i><span>Applied Ecologist<br>SwampDonkey</span></li>
+      <li><i class="bi bi-mortarboard"></i><span>M.Sc. Biology Student<br>The University of British Columbia<br>Okanagan Campus</span></li>
+      <li><i class="bi bi-geo-alt"></i><span>Syilx Okanagan<br>Nation Territory</span></li>
+    </ul>
+    <div class="hero-buttons">
+      <a class="hero-btn" href="experience.html">Field experience</a>
+      <a class="hero-btn hero-btn-ghost" href="cv.html">CV</a>
+    </div>
+  </div>
+  <div class="hero-photo">
+    <img src="files/home/hero_juniper.jpg" alt="Megan climbing through the arch of a twisted juniper on a red-sand desert trail." style="object-position: 55% 50%;">
+  </div>
+</section>
+```
+
+## About
 
 I am broadly interested in how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management. I work as an Applied Ecologist with SwampDonkey and am completing my M.Sc. at the University of British Columbia Okanagan on white-tailed deer range expansion in the Columbia Mountains. Before graduate school, I worked on wolf and predator-prey projects across North America, including the Wolf and Deer Project in Minnesota, Isle Royale, Yellowstone, and the Mexican Wolf Recovery Program.
 

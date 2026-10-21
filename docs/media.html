@@ -38,7 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9b5f9b9f427c72a84624c409d2128b29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-472679edaab77b086ab8c0f12d609ece.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -181,11 +184,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="features-and-recognition" class="level2">
 <h2 class="anchored" data-anchor-id="features-and-recognition">Features and recognition</h2>
 <div class="media-card">
-<p><img src="files/media/delta_waterfowl_wigeon.jpg" class="img-fluid" alt="Megan smiling in a duck blind, holding an American wigeon."></p>
+<p><a href="files/media/delta_waterfowl_wigeon.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="files/media/delta_waterfowl_wigeon.jpg" class="img-fluid" alt="Megan smiling in a duck blind, holding an American wigeon."></a></p>
 <section id="mentor-recognition-delta-waterfowl-foundation" class="level3 media-text">
 <h3 class="anchored" data-anchor-id="mentor-recognition-delta-waterfowl-foundation">Mentor recognition, Delta Waterfowl Foundation</h3>
 <p><span class="media-meta">Delta Waterfowl Foundation · July 2026</span></p>
-<p>Recognized for three years of mentoring UBC Okanagan students through Delta Waterfowl’s University Hunting Program: helping new hunters prepare for their first hunt, loaning gear, and mentoring in the field, along with introductions to fishing, trapping, archery, and turkey hunting.</p>
+<p>Recognized for two years of mentoring UBC Okanagan students through Delta Waterfowl’s University Hunting Program: helping new hunters prepare for their first hunt, loaning gear, and mentoring in the field, along with introductions to fishing, trapping, archery, and turkey hunting.</p>
 <blockquote class="blockquote">
 <p>“Megan has made hunting more accessible while building confidence in the field.”</p>
 </blockquote>
@@ -237,6 +240,13 @@ ul.task-list li input[type="checkbox"] {
 <li>Petersohn, M. 2023. An old place with new songs. <em>International Wolf</em> 33(3):28-30.</li>
 <li>Petersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. <em>International Wolf</em> 32(2):26-27. <a href="https://pubs.usgs.gov/publication/70232261">USGS record</a></li>
 </ul>
+</section>
+<section id="off-the-clock" class="level2">
+<h2 class="anchored" data-anchor-id="off-the-clock">Off the clock</h2>
+<div class="photo-strip">
+<p><img src="files/personal/hiking_slot_canyon.jpg" class="img-fluid" data-group="personal" alt="Megan climbing up through a red sandstone slot canyon."> <img src="files/personal/hiking_camera.jpg" class="img-fluid" data-group="personal" alt="Megan photographing from a sandstone ledge."> <img src="files/personal/yellowstone_grand_prismatic.jpg" class="img-fluid" data-group="personal" alt="Megan looking out over the steaming, orange-rimmed Grand Prismatic Spring in Yellowstone."> <img src="files/personal/yellowstone_boardwalk.jpg" class="img-fluid" data-group="personal" alt="Megan laughing on a boardwalk across a Yellowstone geyser basin, camera in hand."> <img src="files/personal/winter_beaver_trapping.jpg" class="img-fluid" data-group="personal" alt="Black-and-white photo of Megan reaching through broken ice to set a beaver trap in deep snow."></p>
+</div>
+<p><span class="strip-caption">Hiking canyon country with my dad, wandering Yellowstone’s geyser basins, and trapping beaver in winter.</span></p>
 
 
 </section>
@@ -678,6 +688,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
