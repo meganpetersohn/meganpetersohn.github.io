@@ -5,6 +5,8 @@ toc: true
 toc-title: "On this page"
 ---
 
+[Download CV (PDF)](files/Petersohn_CV.pdf){.btn .btn-outline-primary .btn-sm}
+
 I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research. I am broadly interested in researching how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management.
 
 ## Current position
@@ -18,7 +20,14 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 : Thesis: *Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains of British Columbia.* Advisor: Dr. Tal Avgar.
 
 **Bachelor of Arts in Biology and Neuroscience**, Augustana University, Rock Island, Illinois · 2011 to 2015
-: Minor in Spanish. Dean's List; Lillian E. Paulson Award.
+: Minor in Spanish. Dean’s List.
+
+## Grants and awards
+
+**Mitacs Accelerate grant**, $75,000 · 2024
+: *Understanding white-tailed deer range expansion in the Columbia Mountains.* Wrote the proposal as the intern, with academic supervisor Dr. Tal Avgar (UBC Okanagan) and partner organization Biodiversity Pathways Ltd.
+
+**Lillian E. Paulson Award**, Augustana University
 
 ## Research expertise
 
@@ -52,6 +61,7 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 
 ## Selected presentations
 
+- Petersohn, M., A. Christian, R. Serrouya, A. Sweitzer, T. Avgar, C. Apps, and C. Bergeron. 2026. Holding the edge of Southern Mountain Caribou: a collective, connected path forward. Poster, 20th North American Caribou Workshop, Yellowknife, NT (Jun 2026).
 - Petersohn, M.C. 2026. Early mortality and survival patterns in gray wolf pups in northeastern Minnesota: insights from long-term telemetry data near the Boundary Waters. Poster, International Wolf Symposium. [Poster page](projects/snf-wolf-pups/index.qmd)
 - Petersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. 2025. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains. Columbia Mountains Institute Researcher's Forum, Revelstoke, BC (Sep 2025), and The Wildlife Society International Conference, Edmonton, AB (Oct 2025).
 - Petersohn, M., and T. Avgar. 2025. Predator reduction: effects on cervids. WAFWA Deer and Elk Workshop, Nanaimo, BC (Jun 2025).
@@ -70,6 +80,12 @@ I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate 
 
 - President, UBC Okanagan Backcountry Hunters and Anglers Collegiate Club (Sep 2024 to present)
 - Founder, Augustana College Fishing Club (2014 to 2015)
+
+## Co-authored presentations
+
+- Suen, A., M. Petersohn, R. Serrouya, and T. Avgar. 2025. Non-consumptive effects of black bear hunting: evidence from wide-scale camera monitoring. Columbia Mountains Institute Researcher's Forum, Revelstoke, BC (Sep 2025), and The Wildlife Society Annual Conference, Edmonton, AB (Oct 2025).
+- Harper, K.A., T. Kalukapuge, M. Petersohn, A. Spiller, L. Arnauth, and A. Dabros. 2026. Vegetation patterns across forest edges in Canada: preliminary results from a synthesis of CanFERN (Canadian Forest Edge Research Network). Poster, 68th International Association for Vegetation Science Annual Symposium, Gijón, Spain (Jun 2026).
+- Harper, K., A. Dabros, P. Burton, L. Arnauth, D. Bertuol-Garcia, T. Kalukapuge, M. Petersohn, C. Gonzalez Prieto, A. Spiller, E.K. Unger, and D. Hunt. 2026. Life on the edge: preliminary results from a CIEE working group on vegetation structure, diversity and composition across forest edges in Canada. Canadian Society for Ecology and Evolution Annual Conference, Toronto, ON (May 2026).
 
 ## Certifications and training
 

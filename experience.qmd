@@ -32,9 +32,9 @@ Before graduate school I spent most of a decade as a field technician on wolf, c
     {name: "Applied Ecologist", org: "SwampDonkey", place: "Based in the Okanagan, British Columbia", when: "Aug 2026 to present", ll: [50.05, -119.40], now: true}
   ];
   var map = L.map("fieldmap", {scrollWheelZoom: false});
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-    maxZoom: 12, subdomains: "abcd",
-    attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 12,
+    attribution: "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors"
   }).addTo(map);
   var pts = [];
   sites.forEach(function (s) {

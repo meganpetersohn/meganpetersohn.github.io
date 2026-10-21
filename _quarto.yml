@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - assets/
+    - files/
   output-dir: docs          # GitHub Pages serves this folder (Settings > Pages > main /docs)
 
 website:
