@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-472679edaab77b086ab8c0f12d609ece.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -202,11 +205,15 @@ Tutored college students in biology, anatomy, and physiology, including privatel
 <h2 class="anchored" data-anchor-id="workshops-and-outreach">Workshops and outreach</h2>
 <section id="youth-day-with-splatsin" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="youth-day-with-splatsin">Youth day with Splatsin</h3>
-<p><img src="files/teaching/splatsin_youth_day_2026.jpg" class="img-fluid" alt="Splatsin youth seated at tables, seen from behind, while Megan presents trail-camera research at the front of the room."></p>
+<p><a href="files/teaching/splatsin_youth_day_2026.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="files/teaching/splatsin_youth_day_2026.jpg" class="img-fluid" alt="Splatsin youth seated at tables, seen from behind, while Megan presents trail-camera research at the front of the room."></a></p>
 <p>With Adam Christian (Splatsin), talked with Splatsin youth about paths into wildlife ecology and how our deer research uses trail cameras, then went outside to look for animal sign and set up a camera. Enderby, BC · May 2026</p>
 </section>
 <section id="camera-traps-in-research" class="level3 project-card">
 <h3 class="anchored" data-anchor-id="camera-traps-in-research">Camera traps in research</h3>
+<div class="photo-strip">
+<p><img src="files/teaching/camera_trap_workshop_2025.jpg" class="img-fluid" data-group="workshop" alt="High school students, seen from behind, looking at camera-trap photos of wildlife on a large screen."> <img src="files/teaching/camera_trap_unicorn_2025.jpg" class="img-fluid" data-group="workshop" alt="Black-and-white trail-camera photo of Liufeng Wang in a unicorn costume, posing in an office during the workshop."></p>
+</div>
+<p><span class="strip-caption">Right: Liufeng Wang, PhD candidate in the WEiRG Lab, caught on our demo camera.</span></p>
 <p>Interactive workshop for high school students on camera-trap methods, wildlife monitoring, and career pathways in conservation science. UBC Okanagan, Kelowna, BC · Mar 2025</p>
 </section>
 <section id="radio-telemetry-field-training" class="level3 project-card">
@@ -661,6 +668,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

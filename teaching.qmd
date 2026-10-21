@@ -2,6 +2,7 @@
 title: "Teaching and mentorship"
 subtitle: "Supervising undergraduate researchers, teaching, tutoring, and hands-on workshops"
 page-layout: article
+lightbox: true
 ---
 
 ## Research mentorship
@@ -29,6 +30,13 @@ With Adam Christian (Splatsin), talked with Splatsin youth about paths into wild
 
 ::: {.project-card}
 ### Camera traps in research
+::: {.photo-strip}
+![](files/teaching/camera_trap_workshop_2025.jpg){group="workshop" fig-alt="High school students, seen from behind, looking at camera-trap photos of wildlife on a large screen."}
+![](files/teaching/camera_trap_unicorn_2025.jpg){group="workshop" fig-alt="Black-and-white trail-camera photo of Liufeng Wang in a unicorn costume, posing in an office during the workshop."}
+:::
+
+[Right: Liufeng Wang, PhD candidate in the WEiRG Lab, caught on our demo camera.]{.strip-caption}
+
 Interactive workshop for high school students on camera-trap methods, wildlife monitoring, and career pathways in conservation science. UBC Okanagan, Kelowna, BC · Mar 2025
 :::
 
