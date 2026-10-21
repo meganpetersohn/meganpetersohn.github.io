@@ -1,0 +1,76 @@
+---
+title: "CV"
+page-layout: article
+toc: true
+toc-title: "On this page"
+---
+
+I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research. I am broadly interested in researching how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management.
+
+## Current position
+
+**Applied Ecologist**, SwampDonkey ([swampdonkeysolutions.ca](https://www.swampdonkeysolutions.ca/)) · August 2026 to present
+: Ecosystem and wildlife research and monitoring, remote from the Okanagan, British Columbia.
+
+## Education
+
+**Master of Science in Biology**, University of British Columbia Okanagan, Kelowna, BC · May 2024 to present
+: Thesis: *Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains of British Columbia.* Advisor: Dr. Tal Avgar.
+
+**Bachelor of Arts in Biology and Neuroscience**, Augustana University, Rock Island, Illinois · 2011 to 2015
+: Minor in Spanish. Dean's List; Lillian E. Paulson Award.
+
+## Research expertise
+
+- **Quantitative ecology and data management.** R, GitHub version control, GIS (ArcGIS/Collector), spatial data processing, long-term dataset management, and transparent, reproducible analytical workflows.
+- **Field-based predator-prey research.** Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture, and telemetry of carnivores and ungulates; remote camera deployment and servicing; GPS-cluster investigations, necropsies, biological sampling, and long-term wildlife research.
+- **Community partnerships and engagement.** Ongoing research collaboration, knowledge exchange, and youth engagement initiatives with Splatsin; prior fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe; and conflict mitigation (hazing, deterrents, fladry, fencing) and public engagement across high-conflict working landscapes.
+- **Teaching, mentorship, and scientific communication.** Teaching assistant, undergraduate supervision, scientific writing, conference presentations, and inclusive instruction and mentorship.
+
+## Research appointments
+
+**Yellowstone Wolf, Cougar, and Elk Project**, National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023
+: GPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study.
+
+**Wolf and Deer Project**, U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022
+: Managed the final phase of one of the world's longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region.
+
+**Mexican Wolf Recovery Program**, U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020
+: Live-capture and monitoring of endangered Mexican wolves, and conflict mitigation across agency and ranching contexts in the Gila National Forest.
+
+**Isle Royale Wolf Introduction**, SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019
+: More than 100 GPS-cluster investigations during the first year of wolf reintroduction to the island.
+
+**Additional appointments**
+: National Park Service, Isle Royale National Park, Michigan (Mar 2020); New Mexico Department of Game and Fish, Mount Taylor, New Mexico (May to Sep 2018); Wisconsin Department of Natural Resources, Dodgeville, Wisconsin (Nov 2017 to May 2018); Mississippi State University, Baraga, Michigan (Apr to Nov 2017).
+
+## Publications
+
+- Martinig, A.R., Burk, S.L.P., Drobniak, S.M., Perry, I., Morrison, K., Petersohn, M., et al. 2025. Dragon kill points: applying a transparent working template to relieve authorship stress. *EcoEvoRxiv*. <https://doi.org/10.32942/X2W05K>
+- Petersohn, M. 2023. An old place with new songs. *International Wolf* 33(3):28-30.
+- Petersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. *International Wolf* 32(2):26-27.
+
+## Selected presentations
+
+- Petersohn, M.C. 2026. Early mortality and survival patterns in gray wolf pups in northeastern Minnesota: insights from long-term telemetry data near the Boundary Waters. Poster, International Wolf Symposium. [Poster page](projects/snf-wolf-pups/index.qmd)
+- Petersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. 2025. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains. Columbia Mountains Institute Researcher's Forum, Revelstoke, BC (Sep 2025), and The Wildlife Society International Conference, Edmonton, AB (Oct 2025).
+- Petersohn, M., and T. Avgar. 2025. Predator reduction: effects on cervids. WAFWA Deer and Elk Workshop, Nanaimo, BC (Jun 2025).
+- Petersohn, M., S. Barber-Meyer, K. Pilgrim, and I. Ortloff. 2022. Wolf genetics and persistence of scat and radiocollars. Poster, International Wolf Symposium, Minneapolis, MN (Oct 2022).
+
+## Teaching and supervising
+
+**Undergraduate Research Supervisor**, UBC Okanagan · Sep 2024 to present
+: Mentoring four undergraduate researchers in data management, wildlife photo classification, statistical analysis, and presentation and manuscript preparation.
+
+**Teaching Assistant (Anatomy and Physiology)**, UBC Okanagan · Jan to May 2025
+
+**Biology Tutor**, McHenry County College, Crystal Lake, Illinois · Nov 2015 to Apr 2017 and Oct 2019 to Jan 2020
+
+## Community leadership
+
+- President, UBC Okanagan Backcountry Hunters and Anglers Collegiate Club (Sep 2024 to present)
+- Founder, Augustana College Fishing Club (2014 to 2015)
+
+## Certifications and training
+
+Aircrew Member (HAZMAT); Chemical Immobilization and Handling (WI DNR); IQCS Wildland Firefighter (FFT2, BTOP); Minnesota Trapping Certification; Minnesota Snowmobile Safety; Motorboat Operator Certification Course (MOCC); Non-Lethal Use of Firearms; Open Water Scuba Diver (PADI); Wilderness First Aid (WFA).

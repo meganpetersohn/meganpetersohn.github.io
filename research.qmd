@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Current projects"
 page-layout: article
 ---
 
@@ -18,7 +18,7 @@ My graduate research at UBC Okanagan examines the drivers of white-tailed deer r
 :::
 
 ::: {.project-card}
-### Wildlife consulting
+### Applied ecology with SwampDonkey
 
-I work on wildlife research projects with Swamp Donkey Solutions in British Columbia.
+As an Applied Ecologist with [SwampDonkey](https://www.swampdonkeysolutions.ca/), I support ecosystem and wildlife research and monitoring in western Canada.
 :::

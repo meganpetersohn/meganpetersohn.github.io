@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Megan Petersohn",
     "section": "",
-    "text": "I study how wildlife populations change over time, using long-term field data, telemetry, and camera traps, with a focus on wolves and white-tailed deer.\nI worked as a biotechnician with the U.S. Geological Survey Wolf and Deer Project in Ely, Minnesota, where I helped radio-track wolves and white-tailed deer in the Superior National Forest. My graduate research at the University of British Columbia Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains, and I also work on wildlife research with Swamp Donkey Solutions in British Columbia."
+    "text": "I am a wildlife ecologist with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research.\nI am broadly interested in how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management. I work as an Applied Ecologist with SwampDonkey and am completing my M.Sc. at the University of British Columbia Okanagan on white-tailed deer range expansion in the Columbia Mountains. Before that, I worked on wolf and predator-prey projects in Yellowstone, Isle Royale, the Mexican wolf recovery area, and with the U.S. Geological Survey Wolf and Deer Project in Ely, Minnesota."
   },
   {
     "objectID": "index.html#current-work",
@@ -18,14 +18,7 @@
     "href": "index.html#contact-and-profiles",
     "title": "Megan Petersohn",
     "section": "Contact and profiles",
-    "text": "Contact and profiles\n\nEmail: megan.c.petersohn@gmail.com\nORCID: 0000-0002-8955-9980\nGoogle Scholar\nGitHub"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Wolf pup survival in northeastern Minnesota\nUsing radio-collared wolf pups from one of the longest-running wolf studies, in the Superior National Forest (1970 to 2017), I estimate how many pups survived their first two years, when and how they died, and how body condition and roads shaped their risk. Data from the U.S. Geological Survey Wolf and Deer Project (Mech 2009, 2022; Barber-Meyer et al. 2021).\nPoster and results →\n\n\nWhite-tailed deer\nMy graduate research at UBC Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains of British Columbia, including winter severity, resource availability, and predator abundance, using trail-camera data and statistical modelling.\n\n\nWildlife consulting\nI work on wildlife research projects with Swamp Donkey Solutions in British Columbia."
+    "text": "Contact and profiles\n\nEmail: megan.c.petersohn@gmail.com\nORCID: 0000-0002-8955-9980\nGoogle Scholar\nGitHub\nField experience and CV"
   },
   {
     "objectID": "projects/snf-wolf-pups/index.html",
@@ -82,5 +75,103 @@
     "title": "Early mortality and survival of gray wolf pups in northeastern Minnesota",
     "section": "References",
     "text": "References\n\nBarber-Meyer, S. M., T. J. Wheeldon, and L. D. Mech. 2021. The importance of wilderness to wolf (Canis lupus) survival and cause-specific mortality over 50 years. Biological Conservation 258:109145. https://doi.org/10.1016/j.biocon.2021.109145\nGese, E. M., and L. D. Mech. 1991. Dispersal of wolves (Canis lupus) in northeastern Minnesota, 1969-1989. Canadian Journal of Zoology 69:2946-2955. https://doi.org/10.1139/z91-415\nHynes, A., T. D. Gable, A. T. Homkes, J. K. Bump, and J. G. Bruggink. 2026. Born to die: pack and population level estimates of wolf pup survival and recruitment in the Greater Voyageurs Ecosystem. Wildlife Biology 2026:e01562. https://doi.org/10.1002/wlb3.01562\nMech, L. D. 1977. Productivity, mortality, and population trends of wolves in northeastern Minnesota. Journal of Mammalogy 58:559-574. https://doi.org/10.2307/1380004\nMech, L. D. 2009. Long-term research on wolves in the Superior National Forest. Pages 15-34 in A. P. Wydeven, T. R. Van Deelen, and E. J. Heske, editors. Recovery of gray wolves in the Great Lakes region of the United States: an endangered species success story. Springer, New York. https://doi.org/10.1007/978-0-387-85952-1_2\nMech, L. D. 2022. Long-term wolf study in the Superior National Forest ends. International Wolf 32(3):12-15.\n\n\nThis information is preliminary and is subject to revision. It is being provided to meet the need for timely best science. The information is provided on the condition that neither the U.S. Geological Survey nor the U.S. Government shall be held liable for any damages resulting from the authorized or unauthorized use of the information."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am a wildlife ecologist and M.Sc. candidate with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research. I am broadly interested in researching how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management."
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "CV",
+    "section": "Current position",
+    "text": "Current position\n\nApplied Ecologist, SwampDonkey (swampdonkeysolutions.ca) · August 2026 to present\n\nEcosystem and wildlife research and monitoring, remote from the Okanagan, British Columbia."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nMaster of Science in Biology, University of British Columbia Okanagan, Kelowna, BC · May 2024 to present\n\nThesis: Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains of British Columbia. Advisor: Dr. Tal Avgar.\n\nBachelor of Arts in Biology and Neuroscience, Augustana University, Rock Island, Illinois · 2011 to 2015\n\nMinor in Spanish. Dean’s List; Lillian E. Paulson Award."
+  },
+  {
+    "objectID": "cv.html#research-expertise",
+    "href": "cv.html#research-expertise",
+    "title": "CV",
+    "section": "Research expertise",
+    "text": "Research expertise\n\nQuantitative ecology and data management. R, GitHub version control, GIS (ArcGIS/Collector), spatial data processing, long-term dataset management, and transparent, reproducible analytical workflows.\nField-based predator-prey research. Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture, and telemetry of carnivores and ungulates; remote camera deployment and servicing; GPS-cluster investigations, necropsies, biological sampling, and long-term wildlife research.\nCommunity partnerships and engagement. Ongoing research collaboration, knowledge exchange, and youth engagement initiatives with Splatsin; prior fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe; and conflict mitigation (hazing, deterrents, fladry, fencing) and public engagement across high-conflict working landscapes.\nTeaching, mentorship, and scientific communication. Teaching assistant, undergraduate supervision, scientific writing, conference presentations, and inclusive instruction and mentorship."
+  },
+  {
+    "objectID": "cv.html#research-appointments",
+    "href": "cv.html#research-appointments",
+    "title": "CV",
+    "section": "Research appointments",
+    "text": "Research appointments\n\nYellowstone Wolf, Cougar, and Elk Project, National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023\n\nGPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study.\n\nWolf and Deer Project, U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022\n\nManaged the final phase of one of the world’s longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region.\n\nMexican Wolf Recovery Program, U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020\n\nLive-capture and monitoring of endangered Mexican wolves, and conflict mitigation across agency and ranching contexts in the Gila National Forest.\n\nIsle Royale Wolf Introduction, SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019\n\nMore than 100 GPS-cluster investigations during the first year of wolf reintroduction to the island.\n\nAdditional appointments\n\nNational Park Service, Isle Royale National Park, Michigan (Mar 2020); New Mexico Department of Game and Fish, Mount Taylor, New Mexico (May to Sep 2018); Wisconsin Department of Natural Resources, Dodgeville, Wisconsin (Nov 2017 to May 2018); Mississippi State University, Baraga, Michigan (Apr to Nov 2017)."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\nMartinig, A.R., Burk, S.L.P., Drobniak, S.M., Perry, I., Morrison, K., Petersohn, M., et al. 2025. Dragon kill points: applying a transparent working template to relieve authorship stress. EcoEvoRxiv. https://doi.org/10.32942/X2W05K\nPetersohn, M. 2023. An old place with new songs. International Wolf 33(3):28-30.\nPetersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. International Wolf 32(2):26-27."
+  },
+  {
+    "objectID": "cv.html#selected-presentations",
+    "href": "cv.html#selected-presentations",
+    "title": "CV",
+    "section": "Selected presentations",
+    "text": "Selected presentations\n\nPetersohn, M.C. 2026. Early mortality and survival patterns in gray wolf pups in northeastern Minnesota: insights from long-term telemetry data near the Boundary Waters. Poster, International Wolf Symposium. Poster page\nPetersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. 2025. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains. Columbia Mountains Institute Researcher’s Forum, Revelstoke, BC (Sep 2025), and The Wildlife Society International Conference, Edmonton, AB (Oct 2025).\nPetersohn, M., and T. Avgar. 2025. Predator reduction: effects on cervids. WAFWA Deer and Elk Workshop, Nanaimo, BC (Jun 2025).\nPetersohn, M., S. Barber-Meyer, K. Pilgrim, and I. Ortloff. 2022. Wolf genetics and persistence of scat and radiocollars. Poster, International Wolf Symposium, Minneapolis, MN (Oct 2022)."
+  },
+  {
+    "objectID": "cv.html#teaching-and-supervising",
+    "href": "cv.html#teaching-and-supervising",
+    "title": "CV",
+    "section": "Teaching and supervising",
+    "text": "Teaching and supervising\n\nUndergraduate Research Supervisor, UBC Okanagan · Sep 2024 to present\n\nMentoring four undergraduate researchers in data management, wildlife photo classification, statistical analysis, and presentation and manuscript preparation.\n\n\nTeaching Assistant (Anatomy and Physiology), UBC Okanagan · Jan to May 2025\nBiology Tutor, McHenry County College, Crystal Lake, Illinois · Nov 2015 to Apr 2017 and Oct 2019 to Jan 2020"
+  },
+  {
+    "objectID": "cv.html#community-leadership",
+    "href": "cv.html#community-leadership",
+    "title": "CV",
+    "section": "Community leadership",
+    "text": "Community leadership\n\nPresident, UBC Okanagan Backcountry Hunters and Anglers Collegiate Club (Sep 2024 to present)\nFounder, Augustana College Fishing Club (2014 to 2015)"
+  },
+  {
+    "objectID": "cv.html#certifications-and-training",
+    "href": "cv.html#certifications-and-training",
+    "title": "CV",
+    "section": "Certifications and training",
+    "text": "Certifications and training\nAircrew Member (HAZMAT); Chemical Immobilization and Handling (WI DNR); IQCS Wildland Firefighter (FFT2, BTOP); Minnesota Trapping Certification; Minnesota Snowmobile Safety; Motorboat Operator Certification Course (MOCC); Non-Lethal Use of Firearms; Open Water Scuba Diver (PADI); Wilderness First Aid (WFA)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Current projects",
+    "section": "",
+    "text": "Wolf pup survival in northeastern Minnesota\nUsing radio-collared wolf pups from one of the longest-running wolf studies, in the Superior National Forest (1970 to 2017), I estimate how many pups survived their first two years, when and how they died, and how body condition and roads shaped their risk. Data from the U.S. Geological Survey Wolf and Deer Project (Mech 2009, 2022; Barber-Meyer et al. 2021).\nPoster and results →\n\n\nWhite-tailed deer\nMy graduate research at UBC Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains of British Columbia, including winter severity, resource availability, and predator abundance, using trail-camera data and statistical modelling.\n\n\nApplied ecology with SwampDonkey\nAs an Applied Ecologist with SwampDonkey, I support ecosystem and wildlife research and monitoring in western Canada."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Field experience",
+    "section": "",
+    "text": "Before graduate school I spent most of a decade as a field technician on wolf, cougar, elk, deer, and predator-prey projects. Click a point on the map to see each project.\nPast field projects\n    \n   Current work\n     Locations are approximate."
+  },
+  {
+    "objectID": "experience.html#field-projects",
+    "href": "experience.html#field-projects",
+    "title": "Field experience",
+    "section": "Field projects",
+    "text": "Field projects\n\nYellowstone Wolf, Cougar, and Elk Project · National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023\n\nGPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study, in one of North America’s most intensively studied wolf systems.\n\nWolf and Deer Project · U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022\n\nManaged the final phase of one of the world’s longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region. This is where my wolf pup survival project began.\n\nIsle Royale Wolf Introduction · SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019\n\nMore than 100 GPS-cluster investigations during the first year of wolf reintroduction to a roadless island, documenting early predation patterns, prey selection, and social dynamics among reintroduced wolves. I returned with the National Park Service in March 2020.\n\nMexican Wolf Recovery Program · U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020\n\nLive-capture and monitoring of endangered Mexican wolves, with conflict mitigation (hazing, deterrents, fladry, fencing) across agency and ranching contexts in the Gila National Forest, and fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe.\n\n\nNew Mexico Department of Game and Fish · Mount Taylor, New Mexico · May to Sep 2018\nWisconsin Department of Natural Resources · Dodgeville, Wisconsin · Nov 2017 to May 2018\nMississippi State University · Baraga, Michigan · Apr to Nov 2017"
+  },
+  {
+    "objectID": "experience.html#skills-from-the-field",
+    "href": "experience.html#skills-from-the-field",
+    "title": "Field experience",
+    "section": "Skills from the field",
+    "text": "Skills from the field\nMulti-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture and chemical immobilization, telemetry, remote cameras, GPS-cluster investigations, necropsies, and biological sampling. See my CV for certifications."
   }
 ]

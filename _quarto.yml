@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - assets/
   output-dir: docs          # GitHub Pages serves this folder (Settings > Pages > main /docs)
 
 website:
@@ -11,9 +13,13 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Research
+        text: Current projects
+      - href: experience.qmd
+        text: Field experience
       - href: projects/snf-wolf-pups/index.qmd
         text: Wolf pup survival
+      - href: cv.qmd
+        text: CV
     right:
       - text: ORCID
         href: https://orcid.org/0000-0002-8955-9980

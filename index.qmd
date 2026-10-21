@@ -1,14 +1,14 @@
 ---
 title: "Megan Petersohn"
-subtitle: "Wildlife ecologist · Okanagan, British Columbia"
+subtitle: "Applied Ecologist, SwampDonkey · M.Sc. candidate, UBC Okanagan"
 page-layout: article
 ---
 
 ::: {.lede}
-I study how wildlife populations change over time, using long-term field data, telemetry, and camera traps, with a focus on wolves and white-tailed deer.
+I am a wildlife ecologist with extensive carnivore-ungulate field experience and a commitment to collaborative, community-engaged research.
 :::
 
-I worked as a biotechnician with the U.S. Geological Survey Wolf and Deer Project in Ely, Minnesota, where I helped radio-track wolves and white-tailed deer in the Superior National Forest. My graduate research at the University of British Columbia Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains, and I also work on wildlife research with Swamp Donkey Solutions in British Columbia.
+I am broadly interested in how large mammals move, interact, and coexist across working landscapes, integrating spatial ecology, predator-prey dynamics, and human-wildlife interactions to inform conservation and management. I work as an Applied Ecologist with SwampDonkey and am completing my M.Sc. at the University of British Columbia Okanagan on white-tailed deer range expansion in the Columbia Mountains. Before that, I worked on wolf and predator-prey projects in Yellowstone, Isle Royale, the Mexican wolf recovery area, and with the U.S. Geological Survey Wolf and Deer Project in Ely, Minnesota.
 
 ## Current work
 
@@ -21,3 +21,4 @@ I worked as a biotechnician with the U.S. Geological Survey Wolf and Deer Projec
 - ORCID: [0000-0002-8955-9980](https://orcid.org/0000-0002-8955-9980)
 - [Google Scholar](https://scholar.google.com/citations?user=bjq4MwMAAAAJ)
 - [GitHub](https://github.com/meganpetersohn)
+- [Field experience](experience.qmd) and [CV](cv.qmd)

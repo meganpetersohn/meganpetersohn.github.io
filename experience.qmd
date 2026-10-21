@@ -1,0 +1,72 @@
+---
+title: "Field experience"
+subtitle: "Ten years of carnivore and ungulate fieldwork across North America"
+page-layout: article
+include-in-header:
+  text: |
+    <link rel="stylesheet" href="assets/leaflet/leaflet.css">
+    <script src="assets/leaflet/leaflet.js"></script>
+---
+
+Before graduate school I spent most of a decade as a field technician on wolf, cougar, elk, deer, and predator-prey projects. Click a point on the map to see each project.
+
+```{=html}
+<div id="fieldmap" style="height: 460px; border: 1px solid #DAD5CB; border-radius: 6px; margin: 1rem 0 .5rem;"></div>
+<p style="font-size:.9rem;color:#5E5B55;margin-bottom:1.5rem;">
+  <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#A9573A;vertical-align:middle;"></span> Past field projects
+  &nbsp;&nbsp;
+  <span style="display:inline-block;width:.8rem;height:.8rem;border-radius:50%;background:#4F5B45;vertical-align:middle;"></span> Current work
+  &nbsp;&nbsp; Locations are approximate.
+</p>
+<script>
+(function () {
+  var sites = [
+    {name: "Yellowstone Wolf, Cougar, and Elk Project", org: "National Park Service", place: "Yellowstone National Park, Wyoming", when: "Nov 2022 to Apr 2023", ll: [44.90, -110.30], now: false},
+    {name: "Wolf and Deer Project", org: "U.S. Geological Survey", place: "Ely, Minnesota", when: "Jul 2020 to Aug 2022", ll: [47.90, -91.87], now: false},
+    {name: "Isle Royale wolf work", org: "SUNY ESF (2019) and National Park Service (2020)", place: "Isle Royale National Park, Michigan", when: "May to Aug 2019; Mar 2020", ll: [48.00, -88.90], now: false},
+    {name: "Mexican Wolf Recovery Program", org: "U.S. Fish and Wildlife Service", place: "Alpine, Arizona", when: "Oct 2018 to Apr 2019; Jan to May 2020", ll: [33.85, -109.13], now: false},
+    {name: "Elk project", org: "New Mexico Department of Game and Fish", place: "Mount Taylor, New Mexico", when: "May to Sep 2018", ll: [35.24, -107.61], now: false},
+    {name: "Deer, CWD, and predator project", org: "Wisconsin Department of Natural Resources", place: "Dodgeville, Wisconsin", when: "Nov 2017 to May 2018", ll: [42.96, -90.13], now: false},
+    {name: "Predator-prey project", org: "Mississippi State University", place: "Baraga, Michigan", when: "Apr to Nov 2017", ll: [46.78, -88.49], now: false},
+    {name: "M.Sc. research: white-tailed deer range expansion", org: "University of British Columbia Okanagan", place: "Columbia Mountains, British Columbia", when: "2024 to present", ll: [51.00, -118.20], now: true},
+    {name: "Applied Ecologist", org: "SwampDonkey", place: "Based in the Okanagan, British Columbia", when: "Aug 2026 to present", ll: [50.05, -119.40], now: true}
+  ];
+  var map = L.map("fieldmap", {scrollWheelZoom: false});
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
+    maxZoom: 12, subdomains: "abcd",
+    attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
+  }).addTo(map);
+  var pts = [];
+  sites.forEach(function (s) {
+    var m = L.circleMarker(s.ll, {radius: 8, weight: 2, color: "#ffffff", fillColor: s.now ? "#4F5B45" : "#A9573A", fillOpacity: 0.95});
+    m.bindPopup("<strong>" + s.name + "</strong><br>" + s.org + "<br>" + s.place + "<br><em>" + s.when + "</em>");
+    m.addTo(map); pts.push(s.ll);
+  });
+  map.fitBounds(pts, {padding: [30, 30]});
+})();
+</script>
+```
+
+## Field projects
+
+**Yellowstone Wolf, Cougar, and Elk Project** · National Park Service, Yellowstone National Park, Wyoming · Nov 2022 to Apr 2023
+: GPS-cluster investigations, behavioural observation, and camera monitoring for a 28-year continuous winter predator-prey study, in one of North America's most intensively studied wolf systems.
+
+**Wolf and Deer Project** · U.S. Geological Survey, Ely, Minnesota · Jul 2020 to Aug 2022
+: Managed the final phase of one of the world's longest-running wolf-deer research programs as the sole field technician: aerial telemetry, live-capture, necropsies, winter tracking, and long-term data management in the Superior National Forest and Boundary Waters region. This is where my [wolf pup survival project](projects/snf-wolf-pups/index.qmd) began.
+
+**Isle Royale Wolf Introduction** · SUNY College of Environmental Science and Forestry, Isle Royale National Park, Michigan · May to Aug 2019
+: More than 100 GPS-cluster investigations during the first year of wolf reintroduction to a roadless island, documenting early predation patterns, prey selection, and social dynamics among reintroduced wolves. I returned with the National Park Service in March 2020.
+
+**Mexican Wolf Recovery Program** · U.S. Fish and Wildlife Service, Alpine, Arizona · Oct 2018 to Apr 2019 and Jan to May 2020
+: Live-capture and monitoring of endangered Mexican wolves, with conflict mitigation (hazing, deterrents, fladry, fencing) across agency and ranching contexts in the Gila National Forest, and fieldwork in partnership with the White Mountain Apache Tribe and San Carlos Apache Tribe.
+
+**New Mexico Department of Game and Fish** · Mount Taylor, New Mexico · May to Sep 2018
+
+**Wisconsin Department of Natural Resources** · Dodgeville, Wisconsin · Nov 2017 to May 2018
+
+**Mississippi State University** · Baraga, Michigan · Apr to Nov 2017
+
+## Skills from the field
+
+Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture and chemical immobilization, telemetry, remote cameras, GPS-cluster investigations, necropsies, and biological sampling. See my [CV](cv.qmd) for certifications.
