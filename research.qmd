@@ -15,6 +15,8 @@ Using radio-collared wolf pups from one of the longest-running wolf studies, in 
 ### White-tailed deer {#white-tailed-deer}
 
 My graduate research at UBC Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains of British Columbia, including winter severity, resource availability, and predator abundance, using trail-camera data and statistical modelling. I wrote the project's Mitacs Accelerate grant ($75,000, 2024), in partnership with Biodiversity Pathways Ltd.
+
+The camera network spans more than 7,000 km² of the Columbia Mountains and combines cameras run by Parks Canada, Biodiversity Pathways, and Splatsin, who deployed 10 sites in 2023. The work takes place on unceded Secwépemc, Sinixt, Syilx, and Ktunaxa territories.
 :::
 
 ::: {.project-card}

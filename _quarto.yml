@@ -10,17 +10,22 @@ website:
   site-url: https://meganpetersohn.github.io
   description: "Wildlife ecologist in the Okanagan, British Columbia: wolves, white-tailed deer, and long-term field data."
   navbar:
+    collapse-below: xl
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Current projects
+      - text: Projects
+        menu:
+          - href: research.qmd
+            text: Current projects
+          - href: projects/snf-wolf-pups/index.qmd
+            text: Wolf pup survival
       - href: experience.qmd
         text: Field experience
       - href: teaching.qmd
         text: Teaching
-      - href: projects/snf-wolf-pups/index.qmd
-        text: Wolf pup survival
+      - href: media.qmd
+        text: Media
       - href: cv.qmd
         text: CV
     right:

@@ -1,0 +1,27 @@
+---
+title: "Media and writing"
+subtitle: "Features, recognition, and articles"
+page-layout: article
+---
+
+## Features and recognition
+
+::: {.media-card}
+![](files/media/delta_waterfowl_wigeon.jpg){fig-alt="Megan smiling in a duck blind, holding an American wigeon."}
+
+::: {.media-text}
+### Mentor recognition, Delta Waterfowl Foundation
+<span class="media-meta">Delta Waterfowl Foundation · July 2026</span>
+
+Recognized for three years of mentoring UBC Okanagan students through Delta Waterfowl's University Hunting Program: helping new hunters prepare for their first hunt, loaning gear, and mentoring in the field, along with introductions to fishing, trapping, archery, and turkey hunting.
+
+> "Megan has made hunting more accessible while building confidence in the field."
+
+[Read the post on Facebook](https://www.facebook.com/story.php?story_fbid=1460829489422035&id=100064849926108)
+:::
+:::
+
+## Articles
+
+- Petersohn, M. 2023. An old place with new songs. *International Wolf* 33(3):28-30.
+- Petersohn, M.C., and S.M. Barber-Meyer. 2022. A rare window into an ancient struggle. *International Wolf* 32(2):26-27.

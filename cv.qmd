@@ -77,6 +77,7 @@ Details and a map of each position are on my [Field experience](experience.qmd) 
 
 ### Workshops and outreach
 
+- Youth day with Splatsin, with Adam Christian. Talk on paths into wildlife ecology and trail-camera research, followed by outdoor camera setup. Enderby, BC (May 2026).
 - Camera traps in research: workshop for high school students. Interactive presentation on camera-trap methods, wildlife monitoring, and career pathways in conservation science. UBC Okanagan, Kelowna, BC (Mar 2025).
 - Radio-telemetry field training for undergraduate students, The Wildlife Society UBCO Chapter. Hands-on workshop on telemetry equipment, animal tracking, and spatial data collection. Kelowna, BC (Sep 2024).
 

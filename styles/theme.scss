@@ -44,3 +44,27 @@ h1, h2, h3 { text-wrap: balance; }
   margin: 0 auto 1rem;
   mix-blend-mode: multiply;
 }
+
+/* Media page: photo beside text on wide screens, stacked on phones */
+.media-card {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  gap: 1.25rem;
+  align-items: start;
+  background: #fff;
+  border: 1px solid #DAD5CB;
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem 0 1.5rem;
+  p:first-child { margin: 0; }
+  img { width: 100%; height: auto; border-radius: 4px; }
+  h3 { margin-top: 0; }
+  blockquote { font-size: 1rem; margin: .75rem 0; }
+}
+.media-meta { color: #6B6964; font-size: .9rem; }
+@media (max-width: 640px) {
+  .media-card { grid-template-columns: 1fr; }
+}
+
+/* Keep navbar labels on one line */
+.navbar .nav-link, .navbar-brand { white-space: nowrap; }

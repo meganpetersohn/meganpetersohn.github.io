@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://meganpetersohn.github.io/index.html</loc>
-    <lastmod>2026-10-21T22:08:12.136Z</lastmod>
+    <loc>https://meganpetersohn.github.io/media.html</loc>
+    <lastmod>2026-10-21T23:14:02.921Z</lastmod>
   </url>
   <url>
-    <loc>https://meganpetersohn.github.io/experience.html</loc>
-    <lastmod>2026-10-21T22:25:03.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meganpetersohn.github.io/research.html</loc>
-    <lastmod>2026-10-21T22:08:12.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meganpetersohn.github.io/cv.html</loc>
-    <lastmod>2026-10-21T21:45:50.363Z</lastmod>
+    <loc>https://meganpetersohn.github.io/teaching.html</loc>
+    <lastmod>2026-10-21T23:09:18.130Z</lastmod>
   </url>
   <url>
     <loc>https://meganpetersohn.github.io/projects/snf-wolf-pups/index.html</loc>
     <lastmod>2026-10-21T22:25:31.033Z</lastmod>
   </url>
   <url>
-    <loc>https://meganpetersohn.github.io/teaching.html</loc>
-    <lastmod>2026-10-21T22:08:12.137Z</lastmod>
+    <loc>https://meganpetersohn.github.io/cv.html</loc>
+    <lastmod>2026-10-21T23:09:18.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meganpetersohn.github.io/research.html</loc>
+    <lastmod>2026-10-21T23:09:18.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meganpetersohn.github.io/experience.html</loc>
+    <lastmod>2026-10-21T22:25:03.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meganpetersohn.github.io/index.html</loc>
+    <lastmod>2026-10-21T22:37:51.944Z</lastmod>
   </url>
 </urlset>

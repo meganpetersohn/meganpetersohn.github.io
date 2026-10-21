@@ -21,6 +21,13 @@ In the field, I also trained and led seasonal technicians and volunteers on proj
 ## Workshops and outreach
 
 ::: {.project-card}
+### Youth day with Splatsin
+![](files/teaching/splatsin_youth_day_2026.jpg){fig-alt="Splatsin youth seated at tables, seen from behind, while Megan presents trail-camera research at the front of the room."}
+
+With Adam Christian (Splatsin), talked with Splatsin youth about paths into wildlife ecology and how our deer research uses trail cameras, then went outside to look for animal sign and set up a camera. Enderby, BC · May 2026
+:::
+
+::: {.project-card}
 ### Camera traps in research
 Interactive workshop for high school students on camera-trap methods, wildlife monitoring, and career pathways in conservation science. UBC Okanagan, Kelowna, BC · Mar 2025
 :::
