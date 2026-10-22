@@ -18,13 +18,19 @@ More than 7,000 km² of the Columbia Mountains, from valley bottoms near 400 m t
 
 ## A shared camera network
 
-More than 200 trail cameras deployed since 2019 record deer alongside a full community of large predators and ungulates, and millions of images have been tagged. The cameras come from Parks Canada, Biodiversity Pathways, and Splatsin. Pooling them into one dataset made this question answerable, and working with these partners has been one of the best parts of this project.
+More than 200 trail cameras deployed since 2019 record deer alongside a full community of large mammals, including eight mid-to-large predators and seven ungulates, and millions of images have been tagged. The cameras come from Parks Canada, Biodiversity Pathways, and Splatsin. Pooling them into one dataset made this question answerable, and working with these partners has been one of the best parts of this project.
 
 ## Preliminary results
 
 ::: {.prelim}
-Results will be added here as the analysis is finalized. Anything shown on this page is preliminary and subject to change.
+**These results are preliminary.** The analysis is still being finalized, and these numbers and interpretations may change.
 :::
+
+- **Deer are becoming more common.** On the 48 cameras watched every year from 2020 to 2024, the share of sites with white-tailed deer doubled, from about 19% to 38%.
+- **Summer visitors to the high country, valley residents in winter.** Deer use mid and high elevations in the snow-free months. In six winters of monitoring, not one was recorded above the valley bottom.
+- **Cold, snow, and rugged terrain matter most.** Temperature, snow water equivalent (SWE, how much water the snowpack holds), and terrain ruggedness best explained where deer were: they were scarcest where it was coldest, snowiest, and most rugged.
+- **No clear predator effect, yet.** Wolves and cougars were photographed so rarely (wolves on 114 of nearly 195,000 camera-days) that an effect can't be ruled out.
+- **Still a minority animal.** White-tailed deer showed up on about 1% of camera-days, roughly half as often as moose or mule deer. People made up 42% of all detections.
 
 ## Talks
 
@@ -36,5 +42,6 @@ Results will be added here as the analysis is finalized. Anything shown on this 
 - **Supervisor:** Dr. Tal Avgar, University of British Columbia Okanagan.
 - **Partners:** Parks Canada, Biodiversity Pathways Ltd., and Splatsin.
 - **Funding:** Mitacs Accelerate grant ($75,000, 2024), with partner organization Biodiversity Pathways Ltd.
+- **Data:** Data remain owned by Splatsin, Parks Canada, and Biodiversity Pathways Ltd.
 
 This work takes place on unceded Secwepemcúl’ecw, and across the unceded territories of the Secwépemc, Sinixt, Syilx, and Ktunaxa Nations.

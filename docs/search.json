@@ -116,7 +116,7 @@
     "href": "research.html",
     "title": "Current projects",
     "section": "",
-    "text": "Wolf pup survival in northeastern Minnesota\nUsing radio-collared wolf pups from one of the longest-running wolf studies, in the Superior National Forest (1970 to 2017), I estimate how many pups survived their first two years, when and how they died, and how body condition and roads shaped their risk. Data from the U.S. Geological Survey Wolf and Deer Project (Mech 2009, 2022; Barber-Meyer et al. 2021).\nPoster and results\n\n\nWhite-tailed deer\nMy graduate research at UBC Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains of British Columbia, including winter severity, resource availability, and predator abundance, using trail-camera data and statistical modelling. I wrote the project’s Mitacs Accelerate grant ($75,000, 2024), in partnership with Biodiversity Pathways Ltd.\nThe camera network spans more than 7,000 km² of the Columbia Mountains and combines cameras run by Parks Canada, Biodiversity Pathways, and Splatsin, who deployed 10 sites in 2023. The work takes place on unceded Secwépemc, Sinixt, Syilx, and Ktunaxa territories.\nProject page\n\n\nApplied ecology with SwampDonkey\nAs an Applied Ecologist with SwampDonkey, I support ecosystem and wildlife research and monitoring in western Canada."
+    "text": "Wolf pup survival in northeastern Minnesota\nUsing radio-collared wolf pups from one of the longest-running wolf studies, in the Superior National Forest (1970 to 2017), I estimate how many pups survived their first two years, when and how they died, and how body condition and roads shaped their risk. Data from the U.S. Geological Survey Wolf and Deer Project (Mech 2009, 2022; Barber-Meyer et al. 2021).\nPoster and results\n\n\nWhite-tailed deer\nMy graduate research at UBC Okanagan examines the drivers of white-tailed deer range expansion in the Columbia Mountains of British Columbia, including winter severity, resource availability, and predator abundance, using trail-camera data and statistical modelling. I wrote the project’s Mitacs Accelerate grant ($75,000, 2024), in partnership with Biodiversity Pathways Ltd.\nThe camera network spans more than 7,000 km² of the Columbia Mountains and combines cameras run by Parks Canada, Biodiversity Pathways, and Splatsin, whose ten sites have run since 2017. The work takes place on unceded Secwépemc, Sinixt, Syilx, and Ktunaxa territories.\nProject page\n\n\nApplied ecology with SwampDonkey\nAs an Applied Ecologist with SwampDonkey, I support ecosystem and wildlife research and monitoring in western Canada."
   },
   {
     "objectID": "cv.html",
@@ -228,14 +228,14 @@
     "href": "projects/wtd-expansion/index.html#a-shared-camera-network",
     "title": "White-tailed deer range expansion in the Columbia Mountains",
     "section": "A shared camera network",
-    "text": "A shared camera network\nMore than 200 trail cameras deployed since 2019 record deer alongside a full community of large predators and ungulates, and millions of images have been tagged. The cameras come from Parks Canada, Biodiversity Pathways, and Splatsin. Pooling them into one dataset made this question answerable, and working with these partners has been one of the best parts of this project."
+    "text": "A shared camera network\nMore than 200 trail cameras deployed since 2019 record deer alongside a full community of large mammals, including eight mid-to-large predators and seven ungulates, and millions of images have been tagged. The cameras come from Parks Canada, Biodiversity Pathways, and Splatsin. Pooling them into one dataset made this question answerable, and working with these partners has been one of the best parts of this project."
   },
   {
     "objectID": "projects/wtd-expansion/index.html#preliminary-results",
     "href": "projects/wtd-expansion/index.html#preliminary-results",
     "title": "White-tailed deer range expansion in the Columbia Mountains",
     "section": "Preliminary results",
-    "text": "Preliminary results\n\nResults will be added here as the analysis is finalized. Anything shown on this page is preliminary and subject to change."
+    "text": "Preliminary results\n\nThese results are preliminary. The analysis is still being finalized, and these numbers and interpretations may change.\n\n\nDeer are becoming more common. On the 48 cameras watched every year from 2020 to 2024, the share of sites with white-tailed deer doubled, from about 19% to 38%.\nSummer visitors to the high country, valley residents in winter. Deer use mid and high elevations in the snow-free months. In six winters of monitoring, not one was recorded above the valley bottom.\nCold, snow, and rugged terrain matter most. Temperature, snow water equivalent (SWE, how much water the snowpack holds), and terrain ruggedness best explained where deer were: they were scarcest where it was coldest, snowiest, and most rugged.\nNo clear predator effect, yet. Wolves and cougars were photographed so rarely (wolves on 114 of nearly 195,000 camera-days) that an effect can’t be ruled out.\nStill a minority animal. White-tailed deer showed up on about 1% of camera-days, roughly half as often as moose or mule deer. People made up 42% of all detections."
   },
   {
     "objectID": "projects/wtd-expansion/index.html#talks",
@@ -249,7 +249,7 @@
     "href": "projects/wtd-expansion/index.html#people-and-support",
     "title": "White-tailed deer range expansion in the Columbia Mountains",
     "section": "People and support",
-    "text": "People and support\n\nSupervisor: Dr. Tal Avgar, University of British Columbia Okanagan.\nPartners: Parks Canada, Biodiversity Pathways Ltd., and Splatsin.\nFunding: Mitacs Accelerate grant ($75,000, 2024), with partner organization Biodiversity Pathways Ltd.\n\nThis work takes place on unceded Secwepemcúl’ecw, and across the unceded territories of the Secwépemc, Sinixt, Syilx, and Ktunaxa Nations."
+    "text": "People and support\n\nSupervisor: Dr. Tal Avgar, University of British Columbia Okanagan.\nPartners: Parks Canada, Biodiversity Pathways Ltd., and Splatsin.\nFunding: Mitacs Accelerate grant ($75,000, 2024), with partner organization Biodiversity Pathways Ltd.\nData: Data remain owned by Splatsin, Parks Canada, and Biodiversity Pathways Ltd.\n\nThis work takes place on unceded Secwepemcúl’ecw, and across the unceded territories of the Secwépemc, Sinixt, Syilx, and Ktunaxa Nations."
   },
   {
     "objectID": "experience.html",
@@ -305,6 +305,6 @@
     "href": "index.html#contact-and-profiles",
     "title": "Megan Petersohn",
     "section": "Contact and profiles",
-    "text": "Contact and profiles\n\nEmail: megan.c.petersohn@gmail.com\nORCID: 0000-0002-8955-9980\nGoogle Scholar\nGitHub\nField experience and CV"
+    "text": "Contact and profiles\n\nEmail: megan.c.petersohn@gmail.com\nORCID: 0000-0002-8955-9980\nGoogle Scholar\nGitHub"
   }
 ]

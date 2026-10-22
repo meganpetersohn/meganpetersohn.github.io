@@ -39,4 +39,3 @@ I am broadly interested in how large mammals move, interact, and coexist across 
 - ORCID: [0000-0002-8955-9980](https://orcid.org/0000-0002-8955-9980)
 - [Google Scholar](https://scholar.google.com/citations?user=bjq4MwMAAAAJ)
 - [GitHub](https://github.com/meganpetersohn)
-- [Field experience](experience.qmd) and [CV](cv.qmd)
