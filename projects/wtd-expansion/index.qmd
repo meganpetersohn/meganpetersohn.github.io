@@ -1,0 +1,40 @@
+---
+title: "White-tailed deer range expansion in the Columbia Mountains"
+subtitle: "M.Sc. research · University of British Columbia Okanagan"
+page-layout: article
+toc: true
+toc-title: "On this page"
+---
+
+## Why white-tailed deer?
+
+White-tailed deer (sek̓wtúps) are expanding north into the Columbia Mountains around Revelstoke, BC, into valleys that once had deeper snow and older forest. That matters for southern mountain caribou, which are threatened and among the southernmost caribou in the world. More deer can support more wolves and cougars, and more predators can mean more caribou killed, even when predators mostly hunt deer. This is called apparent competition. Deer can also spread chronic wasting disease (CWD), a fatal disease of deer, elk, moose, and caribou.
+
+To protect caribou, wolves, cougars, and moose have been reduced across parts of the region. That buys caribou time, but it may also open the door for deer. My M.Sc. asks where deer are expanding, how they use the landscape across seasons and elevations, and what is driving it.
+
+## Study area
+
+More than 7,000 km² of the Columbia Mountains, from valley bottoms near 400 m to alpine ridges above 3,000 m. It spans private land, provincial Crown land, and federally protected national parks, each with its own history of logging, roads, and predator management.
+
+## A shared camera network
+
+More than 200 trail cameras deployed since 2019 record deer alongside a full community of large predators and ungulates, and millions of images have been tagged. The cameras come from Parks Canada, Biodiversity Pathways, and Splatsin. Pooling them into one dataset made this question answerable, and working with these partners has been one of the best parts of this project.
+
+## Preliminary results
+
+::: {.prelim}
+Results will be added here as the analysis is finalized. Anything shown on this page is preliminary and subject to change.
+:::
+
+## Talks
+
+- Petersohn, M.C., R. Serrouya, C. Bergeron, S. Boutin, A. Christian, and T. Avgar. 2025. Understanding white-tailed deer (sek̓wtúps) range expansion in the Columbia Mountains. The Wildlife Society International Conference, Edmonton, AB (Oct 2025), and Columbia Mountains Institute Researcher's Forum, Revelstoke, BC (Sep 2025).
+- Petersohn, M., and T. Avgar. 2025. Predator reduction: effects on cervids. WAFWA Deer and Elk Workshop, Nanaimo, BC (Jun 2025). Presentation design by Holly M. Scholl, [Damn Fine Design](https://www.thedamnfine.com/).
+
+## People and support
+
+- **Supervisor:** Dr. Tal Avgar, University of British Columbia Okanagan.
+- **Partners:** Parks Canada, Biodiversity Pathways Ltd., and Splatsin.
+- **Funding:** Mitacs Accelerate grant ($75,000, 2024), with partner organization Biodiversity Pathways Ltd.
+
+This work takes place on unceded Secwepemcúl’ecw, and across the unceded territories of the Secwépemc, Sinixt, Syilx, and Ktunaxa Nations.

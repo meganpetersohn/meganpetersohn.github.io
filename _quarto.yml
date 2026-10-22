@@ -18,6 +18,8 @@ website:
         menu:
           - href: research.qmd
             text: Current projects
+          - href: projects/wtd-expansion/index.qmd
+            text: White-tailed deer
           - href: projects/snf-wolf-pups/index.qmd
             text: Wolf pup survival
       - href: experience.qmd

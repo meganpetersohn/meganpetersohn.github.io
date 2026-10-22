@@ -8,7 +8,6 @@ page-layout: article
   <div class="hero-text">
     <p class="hero-eyebrow">Wildlife ecologist</p>
     <h1 class="hero-name">Megan Petersohn</h1>
-    <p class="hero-statement">I study how large mammals move, interact, and share working landscapes, from wolves and their pups to deer pushing into caribou country. My work runs from fieldwork and long-term data to answers that managers, partners, and communities can use.</p>
     <ul class="hero-facts">
       <li><i class="bi bi-briefcase"></i><span>Applied Ecologist<br>SwampDonkey</span></li>
       <li><i class="bi bi-mortarboard"></i><span>M.Sc. Biology Student<br>The University of British Columbia<br>Okanagan Campus</span></li>
@@ -32,7 +31,7 @@ I am broadly interested in how large mammals move, interact, and coexist across 
 ## Current work
 
 - [Wolf pup survival in northeastern Minnesota](projects/snf-wolf-pups/index.qmd): how long radio-collared wolf pups survived, what killed them, and why, from five decades of telemetry data. Presented at the International Wolf Symposium, 2026.
-- [White-tailed deer range expansion](research.qmd#white-tailed-deer): what is driving white-tailed deer into the Columbia Mountains of British Columbia.
+- [White-tailed deer range expansion](projects/wtd-expansion/index.qmd): what is driving white-tailed deer into the Columbia Mountains of British Columbia.
 
 ## Contact and profiles
 
