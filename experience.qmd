@@ -102,20 +102,13 @@ I started out in a neuroscience lab in Colorado, then spent nearly a decade befo
 **Advanced Deer, CWD, and Predator-Prey Research Technician** · Wisconsin Department of Natural Resources, Dodgeville, Wisconsin · Nov 2017 to May 2018
 : Led a live-capture team that immobilized, collared, and sampled more than 100 adult deer for chronic wasting disease and predator-prey research; ran bobcat trapping, mortality investigations, and landowner outreach.
 
-::: {.photo-strip}
-![](files/field/wisconsin/fire_walk_sunset.jpg){group="wisconsin" fig-alt="Megan in wildland fire gear walking across a field at sunset."}
-![](files/field/wisconsin/fire_selfie_sunset.jpg){group="wisconsin" fig-alt="Megan in a fire helmet, smiling, with the sun setting behind her."}
-:::
-
-[Spring fire work during the Wisconsin project.]{.strip-caption}
-
 **Carnivore/Deer Wildlife Technician** · Mississippi State University, Baraga, Michigan · Apr to Nov 2017
 : Surveyed seven species in Michigan's Upper Peninsula (coyote howl surveys as lead technician, bear and bobcat hair snares, deer cameras, grouse, beaver, and hare surveys); captured and collared deer, black bears, bobcats, coyotes, and wolves; and investigated fawn and adult deer mortalities.
 
 ::: {.photo-strip}
 ![](files/field/michigan/black_bear_collaring.jpg){group="michigan" fig-alt="Megan kneeling beside a sedated, collared black bear in a conifer forest."}
 ![](files/field/michigan/bobcat_collaring.jpg){group="michigan" fig-alt="Megan helping process a sedated bobcat on a tarp."}
-![](files/field/michigan/collared_fawn.jpg){group="michigan" fig-alt="A collared white-tailed deer fawn bedded in spring grass."}
+![](files/field/michigan/fawn_collared.jpg){group="michigan" fig-alt="A collared white-tailed deer fawn bedded in spring grass."}
 ![](files/field/michigan/wolf_den.jpg){group="michigan" fig-alt="Two crew members pulling Megan out of a wolf den by her boots in falling snow."}
 :::
 
@@ -133,5 +126,12 @@ I started out in a neuroscience lab in Colorado, then spent nearly a decade befo
 ## Skills from the field
 
 Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture and chemical immobilization, telemetry, remote cameras, GPS-cluster investigations, necropsies, and biological sampling. I have also worked wildland fire assignments alongside several field projects as a qualified wildland firefighter (FFT2). See my [CV](cv.qmd) for certifications.
+
+::: {.photo-strip}
+![](files/field/wisconsin/fire_walk_sunset.jpg){group="wisconsin" fig-alt="Megan in wildland fire gear walking across a field at sunset."}
+![](files/field/wisconsin/fire_selfie_sunset.jpg){group="wisconsin" fig-alt="Megan in a fire helmet, smiling, with the sun setting behind her."}
+:::
+
+[Spring fire work in southwest Wisconsin, 2018.]{.strip-caption}
 
 [Photos by Megan Petersohn and field colleagues.]{.strip-caption}

@@ -114,11 +114,6 @@ What the 134 pups in the Cox models looked like on each predictor we tested (the
 :::
 **Deaths by decade of capture.** The share of pups that died while monitored, by cause, for each decade in which they were caught. Labels give deaths out of pups caught that decade. The 2000s and 2010s rest on only 9 and 10 pups, so their bars move a lot with each death.
 
-::: {.plate}
-![](figs/pred_weather_months.jpg){fig-alt="Histograms of monthly minimum-temperature anomalies and December to May snowfall anomalies across all pup-months."}
-:::
-**Winter weather.** The weather in every month each pup was monitored, as 2-month moving averages from regional weather stations: minimum-temperature anomalies in all months (A) and snowfall anomalies from December to May (B). Zero is normal for that month. Neither showed a clear effect on deaths overall; snowier months were linked to more starvation, disease, and unknown-cause deaths, but that result rests largely on one litter in December 1983.
-
 #### Kaplan–Meier results
 
 Kaplan–Meier uses no predictors, so it has no diagram. These figures show how the survival estimate was made and how much it depends on the pups we lost track of.
@@ -146,9 +141,9 @@ Kaplan–Meier uses no predictors, so it has no diagram. These figures show how 
 #### Cox model results
 
 ::: {.plate}
-![](figs/model_dag.jpg){fig-alt="Diagram of the four cause-specific Cox models: body condition and roads each feed human-caused, starvation or disease, unknown, and wolves or wildlife deaths, with hazard ratios listed in each cause box."}
+![](figs/model_diagram.jpg){fig-alt="Diagram of the four cause-specific Cox models: body condition and roads each feed human-caused, starvation or disease, unknown, and wolves or wildlife deaths, with hazard ratios listed in each cause box."}
 :::
-**What we tested.** One Cox model per cause of death, each with the same two predictors: pup body condition (weight compared with what is expected for its sex and capture date) and road density within 5 km of the capture site. Solid coloured arrows show clear effects and grey dashed arrows show none; each box lists both hazard ratios per 1 standard deviation, with 95% confidence intervals. Lighter pups were more likely to die of starvation, disease, or unknown causes, and pups caught among more roads were more likely to be killed by people. Starvation or disease rests on only 7 deaths, and wolves or other wildlife (3 deaths) were too few to interpret. Temperature, snowfall, sex, and legal status were also tested in broader models of all deaths, human-caused deaths, and starvation, disease, and unknown deaths combined; only snowfall showed a link, to starvation, disease, and unknown deaths, and it rests mostly on one December 1983 litter.
+**What we tested.** One Cox model per cause of death, each with the same two predictors: pup body condition (weight compared with what is expected for its sex and capture date) and road density within 5 km of the capture site. Solid coloured arrows show clear effects and grey dashed arrows show none; each box lists both hazard ratios per 1 standard deviation, with 95% confidence intervals. Lighter pups were more likely to die of starvation, disease, or unknown causes, and pups caught among more roads were more likely to be killed by people. Starvation or disease rests on only 7 deaths, and wolves or other wildlife (3 deaths) were too few to interpret. Sex and legal status were also tested in broader models of all deaths, human-caused deaths, and starvation, disease, and unknown deaths combined, with no clear effect.
 
 ::: {.plate}
 ![](figs/twopups.jpg){fig-alt="Predicted survival from 5 to 24 months for a light pup near many roads versus a heavy pup with no roads nearby."}
