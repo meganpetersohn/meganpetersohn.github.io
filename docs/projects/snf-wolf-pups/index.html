@@ -280,13 +280,9 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Fig. 7.</strong> Pups caught where roads were dense were more likely to be killed by people. The median road density was 0.94 km of road per km² within 5 km of capture. A pup caught where road density was 1.75 had about 2.7 times the median pup’s risk. The line shows the Cox model hazard ratio, shading shows the 95% confidence interval, and ticks mark each pup’s road density.</p>
 <section id="extra-figures" class="level3">
 <h3 class="anchored" data-anchor-id="extra-figures">Extra figures</h3>
-<div class="plate">
-<p><img src="figs/dag.jpg" class="img-fluid" alt="Diagram of factors expected to affect each cause of death."></p>
-</div>
-<p><strong>What we think affects pup survival.</strong> Solid boxes are in our models; arrows show the pathway we expect, not results. Grey dashed boxes are expected to matter but are not tested yet.</p>
-<section id="the-predictors-we-tested" class="level4">
-<h4 class="anchored" data-anchor-id="the-predictors-we-tested">The predictors we tested</h4>
-<p>Each figure shows the 134 pups in the Cox models (the 139 pups minus 5 with no capture weight).</p>
+<section id="inside-the-data" class="level4">
+<h4 class="anchored" data-anchor-id="inside-the-data">Inside the data</h4>
+<p>What the 134 pups in the Cox models looked like on each predictor we tested (the 139 pups minus 5 with no capture weight), and how deaths were spread across the years.</p>
 <div class="plate">
 <p><img src="figs/pred_roads.jpg" class="img-fluid" alt="Dot plot of road density within 5 km of each pup's capture site, with the median and average marked and pups later killed by people highlighted."></p>
 </div>
@@ -312,8 +308,32 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p><strong>Winter weather.</strong> The weather in every month each pup was monitored, as 2-month moving averages from regional weather stations: minimum-temperature anomalies in all months (A) and snowfall anomalies from December to May (B). Zero is normal for that month. Neither showed a clear effect on deaths overall; snowier months were linked to more starvation, disease, and unknown-cause deaths, but that result rests largely on one litter in December 1983.</p>
 </section>
-<section id="model-results" class="level4">
-<h4 class="anchored" data-anchor-id="model-results">Model results</h4>
+<section id="kaplanmeier-results" class="level4">
+<h4 class="anchored" data-anchor-id="kaplanmeier-results">Kaplan–Meier results</h4>
+<p>Kaplan–Meier uses no predictors, so it has no diagram. These figures show how the survival estimate was made and how much it depends on the pups we lost track of.</p>
+<div class="plate">
+<p><img src="figs/naive_vs_km.jpg" class="img-fluid" alt="Survival at 30 days, 90 days, 6 months, 1 year and 2 years from Kaplan-Meier with confidence intervals and from the naive method, with the gap labelled at each milestone."></p>
+</div>
+<p><strong>Why the abstract’s numbers changed.</strong> Survival at each milestone from Kaplan–Meier (with 95% confidence intervals) and from the naive method used in the abstract, which drops pups whose fate we lost. On the same 139 pups, the gap grows with time: 16 percentage points at 1 year (62% vs 46%) and 29 at 2 years (46% vs 17%), because most pups we lost track of were lost in their first year.</p>
+<div class="plate">
+<p><img src="figs/km_sensitivity.jpg" class="img-fluid" alt="Four Kaplan-Meier survival curves over 36 months since capture: the primary analysis and three sensitivity versions."></p>
+</div>
+<p><strong>How much our choices matter.</strong> Kaplan–Meier survival under the primary rules and three alternatives; shading is the primary curve’s 95% confidence interval. One-year survival barely moves (57 to 62%). Two-year survival ranges from 30% to 55%, depending mostly on whether deaths found long after contact was lost are counted, and only 9 pups were still monitored at 2 years.</p>
+<div class="plate">
+<p><img src="figs/lost_timing.jpg" class="img-fluid" alt="Months from capture to last contact for dispersed, signal-lost, and collar-off pups, and bars of the calendar month of last contact."></p>
+</div>
+<p><strong>When we lost track of pups.</strong> Months from capture to last contact (left) and the calendar month of last contact (right) for the 88 pups whose monitoring ended without a recorded death. Signal loss came at about the same time after capture as dispersal (median 6.0 vs 7.5 months), while collars that came off or failed did so early (median 0.9 months), which suggests many lost-signal pups may have dispersed.</p>
+<div class="plate">
+<p><img src="figs/lost_age.jpg" class="img-fluid" alt="Estimated age at last contact for dispersed, signal-lost, and collar-off pups, with the first and second birthdays marked."></p>
+</div>
+<p><strong>How old pups were when we lost track of them.</strong> Estimated age at last contact, assuming mid-April births. Collars came off in the first autumn (median 6 months), while dispersal clustered around the first birthday (median 13 months), and lost signals did too (median 12 months).</p>
+</section>
+<section id="cox-model-results" class="level4">
+<h4 class="anchored" data-anchor-id="cox-model-results">Cox model results</h4>
+<div class="plate">
+<p><img src="figs/model_dag.jpg" class="img-fluid" alt="Diagram of the four cause-specific Cox models: body condition and roads each feed human-caused, starvation or disease, unknown, and wolves or wildlife deaths, with hazard ratios listed in each cause box."></p>
+</div>
+<p><strong>What we tested.</strong> One Cox model per cause of death, each with the same two predictors: pup body condition (weight compared with what is expected for its sex and capture date) and road density within 5 km of the capture site. Solid coloured arrows show clear effects and grey dashed arrows show none; each box lists both hazard ratios per 1 standard deviation, with 95% confidence intervals. Lighter pups were more likely to die of starvation, disease, or unknown causes, and pups caught among more roads were more likely to be killed by people. Starvation or disease rests on only 7 deaths, and wolves or other wildlife (3 deaths) were too few to interpret. Temperature, snowfall, sex, and legal status were also tested in broader models of all deaths, human-caused deaths, and starvation, disease, and unknown deaths combined; only snowfall showed a link, to starvation, disease, and unknown deaths, and it rests mostly on one December 1983 litter.</p>
 <div class="plate">
 <p><img src="figs/twopups.jpg" class="img-fluid" alt="Predicted survival from 5 to 24 months for a light pup near many roads versus a heavy pup with no roads nearby."></p>
 </div>
