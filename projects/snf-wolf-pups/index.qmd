@@ -105,9 +105,9 @@ Each figure shows the 134 pups in the Cox models (the 139 pups minus 5 with no c
 **Sex.** Of 63 females, 28 died while monitored; of 71 males, 23 died. Sex showed no clear effect in the models.
 
 ::: {.plate}
-![](figs/pred_capture_years.jpg){fig-alt="Bars of pups caught each year from 1970 to 2017, coloured by the wolves' federal legal status at capture."}
+![](figs/pred_pups_by_year.jpg){fig-alt="Bars of pups caught each year from 1970 to 2017, over shaded bands showing the wolves' federal legal status at capture."}
 :::
-**Capture year and legal status.** Pups caught each year, coloured by the wolves' federal legal status at capture. The 24 pups caught from 1970 to 1973, before federal protection, were tested as a group for human-caused deaths and showed no clear difference. Few pups were collared after 2000. Capture year itself was not tested as a predictor.
+**Capture year and legal status.** Pups caught each year, with shaded bands for the wolves' federal legal status at capture. The 24 pups caught from 1970 to 1973, before federal protection, were tested as a group for human-caused deaths and showed no clear difference. Few pups were collared after 2000. Capture year itself was not tested as a predictor.
 
 ::: {.plate}
 ![](figs/pred_decade_deaths.jpg){fig-alt="Stacked bars of the share of pups that died while monitored, by cause, for each decade of capture."}
