@@ -125,8 +125,7 @@ include-in-header:
 
 Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture and chemical immobilization, telemetry, remote cameras, GPS-cluster investigations, necropsies, and biological sampling. I have also worked wildland fire assignments alongside several field projects as a qualified wildland firefighter (FFT2). See my [CV](cv.qmd) for certifications.
 
-::: {.photo-strip}
-![](files/field/wisconsin/fire_walk_sunset.jpg){group="wisconsin" fig-alt="Megan in wildland fire gear walking across a field at sunset."}
+::: {.photo-strip style="grid-template-columns: minmax(0, 360px);"}
 ![](files/field/wisconsin/fire_selfie_sunset.jpg){group="wisconsin" fig-alt="Megan in a fire helmet, smiling, with the sun setting behind her."}
 :::
 

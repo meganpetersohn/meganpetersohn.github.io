@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-301045ceb5a69488ad2a655b0d117735.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -311,8 +314,8 @@ Worked toward purifying a dopaminergic cell line to improve a cell culture model
 <section id="skills-from-the-field" class="level2">
 <h2 class="anchored" data-anchor-id="skills-from-the-field">Skills from the field</h2>
 <p>Multi-platform tracking (fixed-wing, helicopter, watercraft, snow travel, and extended backcountry travel), live-capture and chemical immobilization, telemetry, remote cameras, GPS-cluster investigations, necropsies, and biological sampling. I have also worked wildland fire assignments alongside several field projects as a qualified wildland firefighter (FFT2). See my <a href="./cv.html">CV</a> for certifications.</p>
-<div class="photo-strip">
-<p><img src="files/field/wisconsin/fire_walk_sunset.jpg" class="img-fluid" data-group="wisconsin" alt="Megan in wildland fire gear walking across a field at sunset."> <img src="files/field/wisconsin/fire_selfie_sunset.jpg" class="img-fluid" data-group="wisconsin" alt="Megan in a fire helmet, smiling, with the sun setting behind her."></p>
+<div class="photo-strip" style="grid-template-columns: minmax(0, 360px);">
+<p><a href="files/field/wisconsin/fire_selfie_sunset.jpg" class="lightbox" data-gallery="wisconsin"><img src="files/field/wisconsin/fire_selfie_sunset.jpg" class="img-fluid" alt="Megan in a fire helmet, smiling, with the sun setting behind her."></a></p>
 </div>
 <p><span class="strip-caption">Spring fire work in southwest Wisconsin, 2018.</span></p>
 <p><span class="strip-caption">Photos by Megan Petersohn and field colleagues.</span></p>
@@ -757,6 +760,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
