@@ -1,5 +1,5 @@
 ---
-title: "White-tailed deer range expansion in the Columbia Mountains"
+title: "Understanding sek̓wtúps (white-tailed deer, _Odocoileus virginianus_) range expansion in the Columbia Mountains, British Columbia"
 subtitle: "M.Sc. research · University of British Columbia Okanagan"
 page-layout: article
 toc: true
