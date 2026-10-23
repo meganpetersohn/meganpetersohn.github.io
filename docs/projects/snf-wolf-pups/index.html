@@ -281,6 +281,36 @@ ul.task-list li input[type="checkbox"] {
 <section id="extra-figures" class="level3">
 <h3 class="anchored" data-anchor-id="extra-figures">Extra figures</h3>
 <div class="plate">
+<p><img src="figs/dag.jpg" class="img-fluid" alt="Diagram of factors expected to affect each cause of death."></p>
+</div>
+<p><strong>What we think affects pup survival.</strong> Solid boxes are in our models; arrows show the pathway we expect, not results. Grey dashed boxes are expected to matter but are not tested yet.</p>
+<section id="the-predictors-we-tested" class="level4">
+<h4 class="anchored" data-anchor-id="the-predictors-we-tested">The predictors we tested</h4>
+<p>Each figure shows the 134 pups in the Cox models (the 139 pups minus 5 with no capture weight).</p>
+<div class="plate">
+<p><img src="figs/pred_roads.jpg" class="img-fluid" alt="Dot plot of road density within 5 km of each pup's capture site, with the median and average marked and pups later killed by people highlighted."></p>
+</div>
+<p><strong>Roads.</strong> Each dot is one pup, placed by the density of roads within 5 km of where it was caught (dots are spread up and down only so they don’t overlap). The solid line marks the median pup (0.94 km of road per km²), the reference every road hazard ratio is compared to, and the dashed line marks the average (0.88). Seventeen pups had no mapped road within 5 km. Pups later killed by people were caught at a median of 1.40 km of road per km², compared with 0.85 for the other pups. These are today’s roads, used as a stand-in for past road access.</p>
+<div class="plate">
+<p><img src="figs/pred_weight.jpg" class="img-fluid" alt="Weight at capture against capture date for females and males, with a line for expected weight and pups that later died of starvation, disease, or unknown causes highlighted."></p>
+</div>
+<p><strong>Body condition.</strong> Each dot is one pup, by capture date and weight. The line is the expected weight for a pup of that sex caught on that date, fitted to all pups, and each pup’s distance above or below the line is the weight measure used in the models. Pups that later died of starvation or disease were a median 7.7 lb below the line, pups that died of unknown causes 4.1 lb below, and pups with no recorded death 1.9 lb above.</p>
+<div class="plate">
+<p><img src="figs/pred_sex.jpg" class="img-fluid" alt="Bars showing 63 females, 28 of which died while monitored, and 71 males, 23 of which died."></p>
+</div>
+<p><strong>Sex.</strong> Of 63 females, 28 died while monitored; of 71 males, 23 died. Sex showed no clear effect in the models.</p>
+<div class="plate">
+<p><img src="figs/pred_year_status.jpg" class="img-fluid" alt="Bars of pups caught each year by legal status, and stacked bars of deaths by cause for each decade of capture."></p>
+</div>
+<p><strong>Capture year and legal status.</strong> (A) Pups caught each year, coloured by the wolves’ federal legal status at capture. The 24 pups caught from 1970 to 1973, before federal protection, were tested as a group for human-caused deaths and showed no clear difference. (B) The share of pups that died while monitored, by cause and decade of capture. Few pups were collared after 2000, so the 2000s and 2010s rest on 9 and 10 pups. Capture year itself was not tested as a predictor.</p>
+<div class="plate">
+<p><img src="figs/pred_weather.jpg" class="img-fluid" alt="Histograms of monthly minimum-temperature anomalies and December to May snowfall anomalies across all pup-months."></p>
+</div>
+<p><strong>Winter weather.</strong> The weather in every month each pup was monitored, as 2-month moving averages from regional weather stations: minimum-temperature anomalies in all months (A) and snowfall anomalies from December to May (B). Zero is normal for that month. Neither showed a clear effect on deaths overall; snowier months were linked to more starvation, disease, and unknown-cause deaths, but that result rests largely on one litter in December 1983.</p>
+</section>
+<section id="model-results" class="level4">
+<h4 class="anchored" data-anchor-id="model-results">Model results</h4>
+<div class="plate">
 <p><img src="figs/twopups.jpg" class="img-fluid" alt="Predicted survival from 5 to 24 months for a light pup near many roads versus a heavy pup with no roads nearby."></p>
 </div>
 <p><strong>Weight and roads together.</strong> Predicted chance that a pup alive at 5 months is still alive, from the four cause-specific Cox models. A light pup caught among many roads had a 39% chance (95% CI 19 to 54%) of being alive at 1 year; a heavy pup with no roads within 5 km, 89% (80 to 96%); a typical pup, about 69%. Light and heavy, and many and few roads, are the 10th and 90th percentiles of our pups. Shading shows 95% confidence intervals from 400 bootstrap samples of litters.</p>
@@ -288,10 +318,7 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="figs/forest.jpg" class="img-fluid" alt="Hazard ratios per standard deviation of weight and road density for each cause of death."></p>
 </div>
 <p><strong>What each predictor did to each cause of death.</strong> Hazard ratios per 1 standard deviation (8.65 lb of weight; 0.63 km of road per km²), with 95% confidence intervals. Grey marks show no clear effect. Wolves or other wildlife (3 deaths) were too few to estimate.</p>
-<div class="plate">
-<p><img src="figs/dag.jpg" class="img-fluid" alt="Diagram of factors expected to affect each cause of death."></p>
-</div>
-<p><strong>What we think affects pup survival.</strong> Solid boxes are in our models; arrows show the pathway we expect, not results. Grey dashed boxes are expected to matter but are not tested yet.</p>
+</section>
 </section>
 </section>
 <section id="conclusion" class="level2">
