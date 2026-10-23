@@ -10,7 +10,7 @@ lightbox: true
 **Undergraduate Research Supervisor**, WEiRG Lab (Dr. Tal Avgar), UBC Okanagan · Sep 2024 to present
 : Mentoring four undergraduate researchers in data management, wildlife photo classification, statistical analysis, and presentation and manuscript preparation, including co-mentoring an honours thesis and training students in camera-trap image tagging.
 
-In the field, I also trained and led seasonal technicians and volunteers on projects such as the Isle Royale beaver study and the USGS Wolf and Deer Project (see [Field experience](experience.qmd)).
+In the field, I also trained and led seasonal technicians and volunteers on many of the projects I worked on, including the Isle Royale wolf, moose, and beaver projects, the Mexican Wolf Recovery Program, and the USGS Wolf and Deer Project (see [Field experience](experience.qmd)).
 
 ## Teaching and tutoring
 
